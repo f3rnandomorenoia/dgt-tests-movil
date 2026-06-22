@@ -69,7 +69,7 @@ def extract_test(url: str, test_id: str | None, title: str | None) -> dict:
             key_node = li.find(class_="opcion")
             if not key_node:
                 continue
-            key = clean_text(key_node.get_text(" ", strip=True)).replace(".", "")
+            key = clean_text(key_node.get_text(" ", strip=True)).replace(".", "").upper()
             options.append(
                 {
                     "key": key,
@@ -101,7 +101,7 @@ def extract_test(url: str, test_id: str | None, title: str | None) -> dict:
                 "prompt": prompt,
                 "image": image,
                 "options": options,
-                "answer": clean_text(answer_node.get_text(" ", strip=True)).replace(".", ""),
+                "answer": clean_text(answer_node.get_text(" ", strip=True)).replace(".", "").upper(),
             }
         )
 

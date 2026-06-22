@@ -17,23 +17,22 @@ Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Te
 | Hecho | Octubre 2024 | 271 | https://revista.dgt.es/es/test/Test-num-271.shtml |
 | Hecho | Junio 2024 | 270 | https://revista.dgt.es/es/test/Test-num-270.shtml |
 | Hecho | Marzo 2024 | 269 | https://revista.dgt.es/es/test/Test-num-269.shtml |
+| Hecho | Diciembre 2023 | 268 | https://revista.dgt.es/es/test/Test-num-268.shtml |
+| Hecho | Octubre 2023 | 267 | https://revista.dgt.es/es/test/Test-num-267.shtml |
+| Hecho | Junio 2023 | 266 | https://revista.dgt.es/es/test/Test-num-266.shtml |
+| Hecho | Marzo 2023 | 265 | https://revista.dgt.es/es/test/Test-num-265.shtml |
 
 ## Pendientes
 
-| Prioridad | Test | Revista | URL | Preguntas detectadas |
-| ---: | --- | ---: | --- | ---: |
-| 1 | Diciembre 2023 | 268 | https://revista.dgt.es/es/test/Test-num-268.shtml | 14 |
-| 2 | Octubre 2023 | 267 | https://revista.dgt.es/es/test/Test-num-267.shtml | 14 |
-| 3 | Junio 2023 | 266 | https://revista.dgt.es/es/test/Test-num-266.shtml | 14 |
-| 4 | Marzo 2023 | 265 | https://revista.dgt.es/es/test/Test-num-265.shtml | 15 |
+No quedan tests pendientes dentro del alcance revisado, desde Marzo 2023 hasta Marzo 2026.
 
 ## Comando para importar uno
 
 ```bash
 python3 scripts/import_revistadgt_test.py \
-  --url https://revista.dgt.es/es/test/Test-num-268.shtml \
-  --id revista-dgt-2023-12 \
-  --title "Diciembre 2023" \
+  --url https://revista.dgt.es/es/test/index.shtml \
+  --id revista-dgt-YYYY-MM \
+  --title "Mes YYYY" \
   --out data/tests.json
 ```
 
