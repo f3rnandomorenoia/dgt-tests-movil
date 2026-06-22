@@ -4,6 +4,8 @@ Web estática móvil para practicar tests tipo examen.
 
 Piloto publicado: **Marzo 2026**, procedente de la sección de tests de la Revista DGT.
 
+Lista de tests pendientes hasta 2023: [PENDING-EXAMS.md](PENDING-EXAMS.md).
+
 ## Fuente y derechos
 
 - Fuente textual: Revista “Tráfico y Seguridad Vial” de la DGT.
