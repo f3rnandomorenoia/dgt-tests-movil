@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-22",
+  "sourceNote": "Textos procedentes de la Revista DGT con cita de fuente. Las imágenes se referencian desde sus URLs oficiales y no se re-alojan.",
+  "tests": [
+    {
+      "id": "revista-dgt-2026-03",
+      "title": "Marzo 2026",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/index.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "Esta señal indica…",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P01-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 1",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P01-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "la proximidad de un lugar en el que se puede efectuar un cambio de sentido al mismo nivel."
+            },
+            {
+              "key": "B",
+              "text": "la proximidad de un lugar donde se puede cambiar de dirección."
+            },
+            {
+              "key": "C",
+              "text": "la dirección que los vehículos tienen obligación de seguir."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "El conductor de una motocicleta, ¿tiene permitido realizar una parada en un carril reservado para autobuses?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P02-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 2",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P02-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, mientras no obstaculice la circulación de autobuses."
+            },
+            {
+              "key": "B",
+              "text": "No, está prohibido."
+            },
+            {
+              "key": "C",
+              "text": "Está permitido parar, pero no estacionar."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "¿Puede incorporarse a la circulación desde un estacionamiento circulando marcha atrás?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P03-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 3",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P03-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, mientras no invada un cruce de vías."
+            },
+            {
+              "key": "B",
+              "text": "Sí, mientras que el recorrido no sea superior a 20 metros."
+            },
+            {
+              "key": "C",
+              "text": "Sí, aunque el recorrido sea superior a 20 metros."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "La distancia de frenado está determinada por...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P04-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 4",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P04-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "un único factor, la velocidad a la que se circula."
+            },
+            {
+              "key": "B",
+              "text": "varios factores, como la velocidad, el estado de la vía o el del vehículo."
+            },
+            {
+              "key": "C",
+              "text": "un único factor, el estado del vehículo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Si tiene un accidente y no lleva puesto el cinturón de seguridad, las posibilidades de resultar muerto en el siniestro son casi el doble en...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P05-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 5",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P05-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "la plaza del conductor, únicamente."
+            },
+            {
+              "key": "B",
+              "text": "las plazas delanteras, únicamente."
+            },
+            {
+              "key": "C",
+              "text": "todas las plazas del vehículo."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "En un turismo, ¿es obligatorio llevar dos chalecos reflectantes, uno para el conductor del vehículo y otro para su acompañante?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P06-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 6",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P06-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sólo es obligatorio en motocicletas, pero no en turismos."
+            },
+            {
+              "key": "B",
+              "text": "Sí, se debe llevar un chaleco por cada plaza del vehículo."
+            },
+            {
+              "key": "C",
+              "text": "No."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Si una intersección con prioridad de paso está saturada y es previsible que se quede detenido sin terminar de atravesarla, impidiendo la circulación transversal, ¿qué debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P07-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 7",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P07-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Entrar en la intersección, porque tiene prioridad de paso."
+            },
+            {
+              "key": "B",
+              "text": "Tocar el claxon con insistencia hasta que los otros conductores le dejen pasar."
+            },
+            {
+              "key": "C",
+              "text": "No entrar en la intersección."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Una luz roja intermitente o dos luces rojas alternativamente intermitentes de un semáforo...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P08-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 8",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P08-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "permiten el paso con precaución."
+            },
+            {
+              "key": "B",
+              "text": "prohíben temporalmente el paso."
+            },
+            {
+              "key": "C",
+              "text": "obligan a moderar la velocidad antes de pasar."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "En general, un conductor que sufre un trastorno depresivo...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P09-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 9",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P09-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "recoge mejor la información relevante, especialmente en un entorno de tráfico complejo."
+            },
+            {
+              "key": "B",
+              "text": "es más fácil que se distraiga y que sufra somnolencia."
+            },
+            {
+              "key": "C",
+              "text": "se concentra con mayor facilidad."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En esta vía de doble sentido, ¿qué vehículos deben guardar una separación mínima de 50 metros con el vehículo de delante cuando no pretendan adelantar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P010-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 10",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P010-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Todos los camiones, con independencia de su M.M.A."
+            },
+            {
+              "key": "B",
+              "text": "Los conjuntos de vehículos de más de 10 metros de longitud."
+            },
+            {
+              "key": "C",
+              "text": "Los turismos."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "En un turismo de nueve plazas, incluida la del conductor, ¿pueden viajar nueve menores de edad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P011-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 11",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P011-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, porque se supera el número de plazas autorizado."
+            },
+            {
+              "key": "B",
+              "text": "Sólo si los niños son menores de 12 años."
+            },
+            {
+              "key": "C",
+              "text": "Sí, siempre que el conductor sea su padre, madre o tutor."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "¿Qué puede verse afectado si cambia el carenado de una motocicleta?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P012-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 12",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P012-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La estética, exclusivamente."
+            },
+            {
+              "key": "B",
+              "text": "La aerodinámica y el consumo."
+            },
+            {
+              "key": "C",
+              "text": "La visibilidad del vehículo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "¿Existe riesgo de accidente si un conductor utiliza un dispositivo de manos libres para hablar por teléfono mientras conduce?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P013-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 13",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P013-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No; el dispositivo está pensado para que no exista ningún riesgo."
+            },
+            {
+              "key": "B",
+              "text": "Sólo si la conversación dura más de cinco minutos."
+            },
+            {
+              "key": "C",
+              "text": "Sí, hay cierto riesgo porque disminuye la atención."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "¿Qué factor de riesgo ocasiona un mayor número de accidentes de tráfico?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P014-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 14",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P014-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "El factor humano."
+            },
+            {
+              "key": "B",
+              "text": "El factor vía y su entorno."
+            },
+            {
+              "key": "C",
+              "text": "El factor vehículo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Como norma general, ¿cómo se denomina el tramo de carretera que discurre por poblado?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P15-250x226.jpg",
+            "alt": "Imagen de apoyo de la pregunta 15",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-277/Test-277-P15-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Carretera convencional."
+            },
+            {
+              "key": "B",
+              "text": "Travesía."
+            },
+            {
+              "key": "C",
+              "text": "Autovía."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
