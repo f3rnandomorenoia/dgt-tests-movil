@@ -13,27 +13,27 @@ Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Te
 | Hecho | Octubre 2025 | 275 | https://revista.dgt.es/es/test/Test-num-275.shtml |
 | Hecho | Junio 2025 | 274 | https://revista.dgt.es/es/test/Test-num-274.shtml |
 | Hecho | Abril 2025 | 273 | https://revista.dgt.es/es/test/Test-num-273.shtml |
+| Hecho | Diciembre 2024 | 272 | https://revista.dgt.es/es/test/Test-num-272.shtml |
+| Hecho | Octubre 2024 | 271 | https://revista.dgt.es/es/test/Test-num-271.shtml |
+| Hecho | Junio 2024 | 270 | https://revista.dgt.es/es/test/Test-num-270.shtml |
+| Hecho | Marzo 2024 | 269 | https://revista.dgt.es/es/test/Test-num-269.shtml |
 
 ## Pendientes
 
 | Prioridad | Test | Revista | URL | Preguntas detectadas |
 | ---: | --- | ---: | --- | ---: |
-| 1 | Diciembre 2024 | 272 | https://revista.dgt.es/es/test/Test-num-272.shtml | 15 |
-| 2 | Octubre 2024 | 271 | https://revista.dgt.es/es/test/Test-num-271.shtml | 15 |
-| 3 | Junio 2024 | 270 | https://revista.dgt.es/es/test/Test-num-270.shtml | 14 |
-| 4 | Marzo 2024 | 269 | https://revista.dgt.es/es/test/Test-num-269.shtml | 14 |
-| 5 | Diciembre 2023 | 268 | https://revista.dgt.es/es/test/Test-num-268.shtml | 14 |
-| 6 | Octubre 2023 | 267 | https://revista.dgt.es/es/test/Test-num-267.shtml | 14 |
-| 7 | Junio 2023 | 266 | https://revista.dgt.es/es/test/Test-num-266.shtml | 14 |
-| 8 | Marzo 2023 | 265 | https://revista.dgt.es/es/test/Test-num-265.shtml | 15 |
+| 1 | Diciembre 2023 | 268 | https://revista.dgt.es/es/test/Test-num-268.shtml | 14 |
+| 2 | Octubre 2023 | 267 | https://revista.dgt.es/es/test/Test-num-267.shtml | 14 |
+| 3 | Junio 2023 | 266 | https://revista.dgt.es/es/test/Test-num-266.shtml | 14 |
+| 4 | Marzo 2023 | 265 | https://revista.dgt.es/es/test/Test-num-265.shtml | 15 |
 
 ## Comando para importar uno
 
 ```bash
 python3 scripts/import_revistadgt_test.py \
-  --url https://revista.dgt.es/es/test/Test-num-272.shtml \
-  --id revista-dgt-2024-12 \
-  --title "Diciembre 2024" \
+  --url https://revista.dgt.es/es/test/Test-num-268.shtml \
+  --id revista-dgt-2023-12 \
+  --title "Diciembre 2023" \
   --out data/tests.json
 ```
 

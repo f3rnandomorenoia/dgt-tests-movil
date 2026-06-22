@@ -2,7 +2,7 @@
 
 Web estática móvil para practicar tests tipo examen.
 
-Tests publicados: **Marzo 2026** y los cuatro tests de **2025**, procedentes de la sección de tests de la Revista DGT.
+Tests publicados: **Marzo 2026**, los cuatro tests de **2025** y los cuatro tests de **2024**, procedentes de la sección de tests de la Revista DGT.
 
 Lista de tests pendientes hasta 2023: [PENDING-EXAMS.md](PENDING-EXAMS.md).
 
