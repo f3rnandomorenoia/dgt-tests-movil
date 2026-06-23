@@ -2,7 +2,7 @@
 
 Estado actualizado: 2026-06-23.
 
-Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Test-num-253` a `Test-num-277`.
+Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Test-num-244` a `Test-num-277`.
 
 ## Hecho
 
@@ -33,10 +33,19 @@ Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Te
 | Hecho | Octubre 2020 | 255 | https://revista.dgt.es/es/test/Test-num-255.shtml |
 | Hecho | Julio 2020 | 254 | https://revista.dgt.es/es/test/Test-num-254.shtml |
 | Hecho | Junio 2020 | 253 | https://revista.dgt.es/es/test/Test-num-253.shtml |
+| Hecho | Diciembre 2019 | 252 | https://revista.dgt.es/es/test/Test-num-252.shtml |
+| Hecho | Octubre 2019 | 251 | https://revista.dgt.es/es/test/Test-num-251.shtml |
+| Hecho | Julio 2019 | 250 | https://revista.dgt.es/es/test/Test-num-250.shtml |
+| Hecho | Abril 2019 | 249 | https://revista.dgt.es/es/test/Test-num-249.shtml |
+| Hecho | Diciembre 2018 | 248 | https://revista.dgt.es/es/test/Test-num-248.shtml |
+| Hecho | Julio 2018 | 247 | https://revista.dgt.es/es/test/Test-num-247.shtml |
+| Hecho | Mayo 2018 | 246 | https://revista.dgt.es/es/test/Test-num-246.shtml |
+| Hecho | Marzo 2018 | 245 | https://revista.dgt.es/es/test/Test-num-245.shtml |
+| Hecho | Enero 2018 | 244 | https://revista.dgt.es/es/test/Test-num-244.shtml |
 
 ## Pendientes
 
-No quedan tests pendientes dentro del alcance revisado, desde Junio 2020 hasta Marzo 2026.
+No quedan tests pendientes dentro del alcance revisado, desde Enero 2018 hasta Marzo 2026.
 
 ## Vigencia normativa
 
@@ -46,9 +55,13 @@ Preguntas bloqueadas por normativa vigente:
 
 | Test | Pregunta | Motivo | Fuente |
 | --- | ---: | --- | --- |
-| Junio 2020 | 1 | Triángulos sustituidos por V16 conectada como medio legal desde 2026. | https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/ |
 | Octubre 2021 | 3 | Suprimido el margen de +20 km/h para adelantar en carreteras convencionales. | https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006 |
 | Marzo 2021 | 9 | Adelantar poniendo en peligro a ciclistas o sin 1,5 m pasa a 6 puntos. | https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006 |
+| Junio 2020 | 1 | Triángulos sustituidos por V16 conectada como medio legal desde 2026. | https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/ |
+| Diciembre 2019 | 2 | Triángulos sustituidos por V16 conectada como medio legal desde 2026. | https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/ |
+| Abril 2019 | 7 | Suprimido el margen de +20 km/h para adelantar en carreteras convencionales. | https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006 |
+| Julio 2018 | 9 | Los límites urbanos genéricos pasaron a 20/30/50 km/h según el tipo de vía. | https://www.dgt.es/comunicacion/notas-de-prensa/la-dgt-y-la-femp-presentan-el-manual-de-aplicacion-de-los-nuevos-limites-de-velocidad-en-vias-urbanas/ |
+| Mayo 2018 | 8 | Triángulos sustituidos por V16 conectada como medio legal desde 2026. | https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/ |
 
 Estas preguntas quedan visibles como históricas en la app, pero no permiten responder y no cuentan en la puntuación.
 
