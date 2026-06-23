@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22",
+  "updatedAt": "2026-06-23",
   "sourceNote": "Textos procedentes de la Revista DGT con cita de fuente. Las imágenes se referencian desde sus URLs oficiales y no se re-alojan.",
   "tests": [
     {
@@ -4903,6 +4903,4625 @@
             {
               "key": "C",
               "text": "Solo si se consumen acompañadas de alguna bebida alcohólica."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2022-12",
+      "title": "Diciembre 2022",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-264.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "La señal indica que...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P01.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "está en un callejón sin salida y debe retroceder."
+            },
+            {
+              "key": "B",
+              "text": "está prohibido pasar sin detenerse."
+            },
+            {
+              "key": "C",
+              "text": "se aproxima a una elevación del terreno."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Para qué sirve el carril de deceleración?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P02.jpg",
+            "alt": "Carril",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Para que circulen los vehículos lentos."
+            },
+            {
+              "key": "B",
+              "text": "Para adelantar por la derecha."
+            },
+            {
+              "key": "C",
+              "text": "Para reducir la velocidad al salir de una autopista."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "En una vía interurbana insuficientemente iluminada, un turismo circula a menos de 40 km/h; ¿puede circular utilizando solo la luz de posición y la de corto alcance?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P03.jpg",
+            "alt": "Luces",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, aunque puede encender la de largo alcance si no deslumbra a otros usuarios."
+            },
+            {
+              "key": "B",
+              "text": "No; es obligatorio que circule con la luz de largo alcance encendida."
+            },
+            {
+              "key": "C",
+              "text": "Solo cuando circule por una travesía."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Las marcas blancas y rojas de la calzada, ¿qué indican?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P04.jpg",
+            "alt": "Marcas viales",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Una zona reservada para la salida de competiciones de coches."
+            },
+            {
+              "key": "B",
+              "text": "Una zona reservada para el estacionamiento de camiones."
+            },
+            {
+              "key": "C",
+              "text": "Una zona reservada para frenado de emergencia, donde no se puede parar ni estacionar."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "¿Es recomendable tener especial cuidado al adelantar a un grupo de ciclistas en los ascensos prolongados?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P05.jpg",
+            "alt": "Ciclistas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No; los adelantamientos a ciclistas no implican riesgo alguno."
+            },
+            {
+              "key": "B",
+              "text": "Solo si algún ciclista va bebiendo algún líquido o tomando alimentos sólidos."
+            },
+            {
+              "key": "C",
+              "text": "Sí, porque debido al esfuerzo y pedaleo pueden realizar cambios bruscos de trayectoria."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Un agente circula en una moto portando una bandera verde; ¿qué indica?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P06.jpg",
+            "alt": "Agente moto",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La calzada está abierta, pero hay que extremar la atención."
+            },
+            {
+              "key": "B",
+              "text": "La calzada queda de nuevo abierta al tráfico a partir de su paso."
+            },
+            {
+              "key": "C",
+              "text": "Se está desarrollando en la calzada una actividad deportiva."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "En general, bajo los efectos de la cocaína...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P07.jpg",
+            "alt": "Cocaína",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "aumenta la capacidad de concentración del conductor."
+            },
+            {
+              "key": "B",
+              "text": "disminuye la capacidad de concentración del conductor."
+            },
+            {
+              "key": "C",
+              "text": "se percibe mejor el entorno y se toman decisiones más seguras."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Cuando la carga sobresale de un vehículo, ¿es obligatorio señalizarla con el panel de la imagen?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P08.jpg",
+            "alt": "Carga",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, excepto para los vehículos destinados al transporte de mercancías."
+            },
+            {
+              "key": "B",
+              "text": "Solo es obligatorio si la carga sobresale por la parte trasera."
+            },
+            {
+              "key": "C",
+              "text": "Sí, para todo tipo de vehículos, pero solo cuando la carga sea indivisible."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer al conductor?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P09.jpg",
+            "alt": "Radio",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Solo si las emisoras de radio no están guardadas en memoria."
+            },
+            {
+              "key": "C",
+              "text": "Sí, aumentando el riesgo de accidente."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En una vía urbana con un carril en cada sentido, deberá circular...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P10.jpg",
+            "alt": "Carriles",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "lo más cerca posible del borde derecho de la calzada."
+            },
+            {
+              "key": "B",
+              "text": "por la zona que mejor convenga."
+            },
+            {
+              "key": "C",
+              "text": "por el centro de la calzada, en tramos rectos."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Un conductor circula por una calzada muy mojada; si para frenar necesita pisar a fondo el pedal de freno, ¿a qué puede ser debido, principalmente?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P11ESP.jpg",
+            "alt": "Calzada mojada",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P11ESP.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A un fallo del sistema de frenos."
+            },
+            {
+              "key": "B",
+              "text": "A que el sistema ABS necesita una revisión."
+            },
+            {
+              "key": "C",
+              "text": "Al enfriamiento excesivo de los discos de freno."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Esta marca transversal continua, ¿está permitido franquearla sin detenerse antes?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P12.jpg",
+            "alt": "Marca transversal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, nunca."
+            },
+            {
+              "key": "B",
+              "text": "Sí, cuando haya peatones."
+            },
+            {
+              "key": "C",
+              "text": "Sí, cuando no sea obligatoria la detención."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P13.jpg",
+            "alt": "Distracción",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente."
+            },
+            {
+              "key": "B",
+              "text": "Pisa el pedal de freno en lugar del acelerador."
+            },
+            {
+              "key": "C",
+              "text": "Tarda más tiempo en reaccionar ante una situación de riesgo."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "En una vía con un carril para cada sentido de la marcha, ¿está permitido que un conductor adelante a varios vehículos a la vez?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P14.jpg",
+            "alt": "Adelantamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, en ningún caso."
+            },
+            {
+              "key": "B",
+              "text": "Solo si puede volver a la derecha sin causar peligro en caso de encontrar vehículos de frente."
+            },
+            {
+              "key": "C",
+              "text": "Sí, siempre que adelante a vehículos de grandes dimensiones."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Un peatón, ¿puede estar obligado a realizar una prueba de alcoholemia?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P15.jpg",
+            "alt": "Prueba alcoholemia",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, cuando esté implicado directamente como posible responsable de un accidente."
+            },
+            {
+              "key": "B",
+              "text": "Sí, en un control preventivo de alcoholemia."
+            },
+            {
+              "key": "C",
+              "text": "No, en ningún caso."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2022-10",
+      "title": "Octubre 2022",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-263.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-1.jpg",
+            "alt": "Alumbrado en un vehículo estacionado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-1.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Ninguno, ya que es un estacionamiento dentro de poblado."
+            },
+            {
+              "key": "B",
+              "text": "Las luces de largo alcance y las luces de emergencia."
+            },
+            {
+              "key": "C",
+              "text": "Las luces de posición, que podrá sustituir por las de estacionamiento."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Qué usuarios deben obedecer el semáforo de la fotografía?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-2.jpg",
+            "alt": "Obediencia a un semáforo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-2.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Los conductores de todos los vehículos de dos ruedas."
+            },
+            {
+              "key": "B",
+              "text": "Los conductores de bicicletas y de ciclomotores."
+            },
+            {
+              "key": "C",
+              "text": "Los peatones y los conductores de bicicletas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "Cuando está lloviendo, ¿qué presión deben tener los neumáticos?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-3.jpg",
+            "alt": "Presión de los neumáticos con lluvia",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-3.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Mayor que la aconsejada por el fabricante."
+            },
+            {
+              "key": "B",
+              "text": "Menor que la aconsejada por el fabricante."
+            },
+            {
+              "key": "C",
+              "text": "La presión aconsejada por el fabricante."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "¿Existe relación entre consumo de drogas de abuso o ilegales y accidentes de tráfico?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-4.jpg",
+            "alt": "Drogas de abuso y siniestros de tráfico",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-4.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; las drogas alteran gravemente las capacidades necesarias para conducir."
+            },
+            {
+              "key": "B",
+              "text": "Solo cuando el conductor mezcla el consumo de drogas con el de alcohol."
+            },
+            {
+              "key": "C",
+              "text": "No; la conducción es más segura cuando se consumen drogas de abuso."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "En un carril VAO, ¿puede circular un turismo que arrastra un remolque de menos de 750 kg de M.M.A.?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-5.jpg",
+            "alt": "Circulación de un turismo por carril VAO",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-5.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, pero solo de día."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "Sí, siempre."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Una embarazada, ¿debe llevar puesto el cinturón de seguridad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-6.jpg",
+            "alt": "Cinturón de seguridad en embarazada",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-6.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, pero solo en vías interurbanas."
+            },
+            {
+              "key": "B",
+              "text": "Sí, es obligatorio."
+            },
+            {
+              "key": "C",
+              "text": "No, no es obligatorio."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Con esta señalización, ¿a qué velocidad debe circular?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-7.jpg",
+            "alt": "Velocidad de circulación",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-7.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Al menos a 30 km/h."
+            },
+            {
+              "key": "B",
+              "text": "Obligatoriamente a 30 km/h."
+            },
+            {
+              "key": "C",
+              "text": "A 30 km/h, como recomendación, durante el tramo que dure el peligro."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciones de tráfico ofrecen más dificultades a las personas mayores?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-8.jpg",
+            "alt": "Envejecimiento y conducción",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-8.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Los giros a la izquierda, especialmente en vías urbanas."
+            },
+            {
+              "key": "B",
+              "text": "Los estacionamientos, sobre todo cuando se realizan a la derecha de la calzada."
+            },
+            {
+              "key": "C",
+              "text": "Las situaciones complejas, como incorporarse a una vía en la que se circula a alta velocidad."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "De las siguientes, ¿cuál es una obligación que corresponde al titular del vehículo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-9.jpg",
+            "alt": "Obligaciones del titular de un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-9.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan su lectura."
+            },
+            {
+              "key": "B",
+              "text": "Identificar ante la Administración al conductor del vehículo en el momento de cometerse una infracción."
+            },
+            {
+              "key": "C",
+              "text": "Comprobar que todos los ocupantes del vehículo hacen uso del cinturón de seguridad."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "El conductor de un turismo, ¿qué debe hacer para incorporarse a la circulación?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-10.jpg",
+            "alt": "Incorporación a la circulación",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo señalizar la maniobra, porque los demás tienen que ceder el paso."
+            },
+            {
+              "key": "B",
+              "text": "Seguir siempre las indicaciones de otra persona."
+            },
+            {
+              "key": "C",
+              "text": "Asegurarse de que puede hacerlo sin peligro para los demás usuarios."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Como mantenimiento preventivo, ¿es conveniente realizar una revisión periódica del sistema de alumbrado del vehículo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-11.jpg",
+            "alt": "Alumbrado del vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, para comprobar su correcto reglado y funcionamiento."
+            },
+            {
+              "key": "B",
+              "text": "No, salvo en los vehículos que disponen de un sistema regulador automático."
+            },
+            {
+              "key": "C",
+              "text": "No, solamente, cuando lleve sobrecarga porque podrían producirse cambios de inclinación del alcance luminoso."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Siempre que exista espacio suficiente y adoptando las máximas precauciones, está permitido adelantar por la derecha...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-12.jpg",
+            "alt": "Adelantamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "en vías interurbanas, en las intersecciones y sus proximidades."
+            },
+            {
+              "key": "B",
+              "text": "en autopistas y autovías que discurran exclusivamente dentro de poblado."
+            },
+            {
+              "key": "C",
+              "text": "en vías urbanas con dos o más carriles delimitados por líneas longitudinales."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "En caso de estar implicado en un accidente, ¿debe detenerse para ayudar a restablecer la seguridad de la circulación?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-13.jpg",
+            "alt": "Colaboración para restablecer la circulación",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, esa tarea corresponde a la policía de tráfico."
+            },
+            {
+              "key": "B",
+              "text": "Sí, en la medida de lo posible."
+            },
+            {
+              "key": "C",
+              "text": "Solo si hay fallecidos o heridos graves."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "Si conduce una motocicleta por una autovía con tres o más carriles, ¿le está permitido circular por el carril situado más a la izquierda?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-14.jpg",
+            "alt": "Carril de circulación en autovía",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, cuando las circunstancias del tráfico o la vía lo aconsejen."
+            },
+            {
+              "key": "B",
+              "text": "Solo cuando la circulación se encuentre saturada."
+            },
+            {
+              "key": "C",
+              "text": "No, solo puede utilizar los carriles derecho y central."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Si conduce una motocicleta, ¿es aconsejable utilizar guantes?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-15.jpg",
+            "alt": "Equipación en motocicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; su uso es obligatorio en todo tipo de vías."
+            },
+            {
+              "key": "B",
+              "text": "Sí, incluso en verano, para proteger las manos en caso de caída."
+            },
+            {
+              "key": "C",
+              "text": "No, porque pueden dificultar la conducción."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2022-06",
+      "title": "Junio 2022",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-262.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "El conductor de un turismo se ve obligado a realizar el traslado de un enfermo en servicio de urgencia; ¿qué luces debe llevar encendidas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262-P01.jpg",
+            "alt": "Un accidentado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262-P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Las de emergencia."
+            },
+            {
+              "key": "B",
+              "text": "Las largas."
+            },
+            {
+              "key": "C",
+              "text": "Las de posición."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "En este cruce, ¿qué se debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P02.jpg",
+            "alt": "Cruce",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Detenerse solo si se aproximan vehículos por la derecha."
+            },
+            {
+              "key": "B",
+              "text": "Detenerse y ceder el paso a todos los vehículos que se aproximen por ambos lados."
+            },
+            {
+              "key": "C",
+              "text": "Detenerse solo si se aproximan vehículos por la izquierda."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "El carril izquierdo está abierto en sentido contrario al habitual; ¿a qué velocidad máxima pueden circular los vehículos que circulan por el carril derecho?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P03.jpg",
+            "alt": "Carril especial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A la velocidad máxima de la vía, 120 km/h."
+            },
+            {
+              "key": "B",
+              "text": "A 60 km/h."
+            },
+            {
+              "key": "C",
+              "text": "A 80 km/h."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "¿Está permitido circular por una autovía por debajo del límite mínimo de velocidad establecido para dicha vía sin causa justificada",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P04.jpg",
+            "alt": "Circulación en autovía",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, porque es una velocidad anormalmente reducida."
+            },
+            {
+              "key": "B",
+              "text": "Sí, aunque es obligatorio circular por el arcén."
+            },
+            {
+              "key": "C",
+              "text": "Solo si no se entorpece la marcha normal de otros vehículos."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Una cuadrícula de marcas amarillas pintada en el suelo indica...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P05.jpg",
+            "alt": "Señalización horizontal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "que no se puede franquear la intersección."
+            },
+            {
+              "key": "B",
+              "text": "que no se debe entrar en la intersección si se puede quedar detenido en ella, obstaculizando la circulación."
+            },
+            {
+              "key": "C",
+              "text": "que el estacionamiento está prohibido."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "El conductor de un vehículo extiende el brazo horizontalmente con la palma de la mano hacia atrás, ¿qué indica?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P06.jpg",
+            "alt": "Señales del conductor",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Que va a girar a la izquierda."
+            },
+            {
+              "key": "B",
+              "text": "Que va a circular marcha atrás."
+            },
+            {
+              "key": "C",
+              "text": "Que tiene intención de inmovilizar el vehículo o de frenar su marcha de modo considerable."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Entre los gastos sanitarios derivados de los accidentes de tráfico con víctimas se encuentran...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P07.jpg",
+            "alt": "Lesionado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "los derivados por la pérdida de producción de personas empleadas."
+            },
+            {
+              "key": "B",
+              "text": "los daños causados al medio ambiente."
+            },
+            {
+              "key": "C",
+              "text": "los de rehabilitación en centros de salud."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "En general, un conductor con estrés...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P08.jpg",
+            "alt": "Conductor con estrés",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "se distrae con mayor facilidad."
+            },
+            {
+              "key": "B",
+              "text": "toma decisiones más rápidas y comete menos errores."
+            },
+            {
+              "key": "C",
+              "text": "presta mayor atención al entorno y tarda más en tomar decisiones."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "En caso de contradicción entre señales del mismo tipo, ¿cuál prevalecerá?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P09.jpg",
+            "alt": "Contradicción entre señales",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La menos restrictiva."
+            },
+            {
+              "key": "B",
+              "text": "La más restrictiva."
+            },
+            {
+              "key": "C",
+              "text": "Ninguna de las señales."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "Una persona provista de un certificado médico que le exima de utilizar los sistemas de retención del vehículo, ¿está obligada a llevar abrochado el cinturón de seguridad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P10.jpg",
+            "alt": "Cinturón de seguridad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "Únicamente fuera de poblado."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Debido a una retención de circulación tiene que reducir, de modo considerable, la velocidad de su vehículo. ¿Debe advertir, siempre que sea posible, a los vehículos que circulan detrás?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262-ExtraP11.jpg",
+            "alt": "Afluencia de vehículos",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262-ExtraP11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, con el empleo de la luz de emergencia."
+            },
+            {
+              "key": "B",
+              "text": "Sí, con el empleo reiterado de las luces de frenado o moviendo el brazo alternativamente de arriba a abajo."
+            },
+            {
+              "key": "C",
+              "text": "No, está prohibido hacer advertencias, ya que pueden crear confusión."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada puede estacionar un turismo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P12.jpg",
+            "alt": "Estacionamiento urbano",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A ambos lados cuando la línea de separación de los sentidos sea discontinua."
+            },
+            {
+              "key": "B",
+              "text": "En el lado izquierdo de la calzada en el sentido de la marcha."
+            },
+            {
+              "key": "C",
+              "text": "En el lado derecho de la calzada en el sentido de la marcha."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P13.jpg",
+            "alt": "Asistencia en accidente",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo si lo solicita algún herido."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "Sí, salvo que la ayuda ya esté organizada."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "En una autovía, el límite de velocidad para una motocicleta es de...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P14.jpg",
+            "alt": "Motocicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "120 km/h, pudiéndose superar en 20 km/h para adelantar."
+            },
+            {
+              "key": "B",
+              "text": "120 km/h."
+            },
+            {
+              "key": "C",
+              "text": "100 km/h."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "La velocidad, ¿es un factor de riesgo que produce accidentes?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-262/Test262P15.jpg",
+            "alt": "Velocidad en vehículos",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-262/Test262P15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, si el vehículo dispone de los últimos sistemas de seguridad."
+            },
+            {
+              "key": "B",
+              "text": "No; solo agrava las consecuencias del accidente pero no es un factor de riesgo."
+            },
+            {
+              "key": "C",
+              "text": "Sí, y por eso debe ser la adecuada en cada momento."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2022-03",
+      "title": "Marzo 2022",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-261.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "Esta señal indica que se acerca a un cruce...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test261-P01.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test261-P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sin preferencia de paso."
+            },
+            {
+              "key": "B",
+              "text": "Con preferencia de paso."
+            },
+            {
+              "key": "C",
+              "text": "Con un vía estrecha."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Influye la velocidad en el campo visual del conductor?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P02.jpg",
+            "alt": "Velocidad y campo visual",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; el campo visual disminuye al aumentar la velocidad."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "Sí; el campo visual se amplía al aumentar la velocidad."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "A una vía así señalizada, ¿qué vehículos no pueden acceder?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P03.jpg",
+            "alt": "Señal prohibición",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Turismos."
+            },
+            {
+              "key": "B",
+              "text": "Bicicletas."
+            },
+            {
+              "key": "C",
+              "text": "Motocicletas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Tomar un café o un té, ¿son estrategias eficaces para reducir la tasa de alcoholemia?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P04.jpg",
+            "alt": "Taza de café",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Sí."
+            },
+            {
+              "key": "C",
+              "text": "No, pero masticar café en grano sí reduce la tasa de alcoholemia."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "El accidente más frecuente por el uso del teléfono móvil mientras se conduce es...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P05.jpg",
+            "alt": "Conductor con teléfono móvil",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La salida de la vía."
+            },
+            {
+              "key": "B",
+              "text": "El choque frontolateral."
+            },
+            {
+              "key": "C",
+              "text": "Al alcance."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "¿Por qué es aconsejable circular en vías urbanas respetando en todo momento la velocidad establecida para cada tramo de vía?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P06.jpg",
+            "alt": "Conducción en vía urbana",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Porque el motor del vehículo consume menos combustible si trabaja a altas revoluciones."
+            },
+            {
+              "key": "B",
+              "text": "Porque las multas por exceso de velocidad en vías urbanas son más caras que en vías interurbanas."
+            },
+            {
+              "key": "C",
+              "text": "Porque la mayoría de los atropellos con muerte del peatón se producen en vías urbanas."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "El efecto submarino, que en un accidente de tráfico puede provocar graves lesiones al conductor, está relacionado con...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P07.jpg",
+            "alt": "Utilización cinturón de seguridad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Una incorrecta presión de los neumáticos."
+            },
+            {
+              "key": "B",
+              "text": "Un mal uso del cinturón de seguridad."
+            },
+            {
+              "key": "C",
+              "text": "Un consumo excesivo de alcohol, medicamentos o drogas de abuso."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "En este caso en que la señalización se contradice, prevalece la señal...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P08.jpg",
+            "alt": "Contradicción señalización",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Más restrictiva."
+            },
+            {
+              "key": "B",
+              "text": "Realizada con el brazo"
+            },
+            {
+              "key": "C",
+              "text": "Luminosa."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "En una vía urbana de sentido único, está permitido estacionar en el lado...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P09.jpg",
+            "alt": "Estacionamiento en vía urbana",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Derecho."
+            },
+            {
+              "key": "B",
+              "text": "Derecho o izquierdo, fuera de la calzada o del arcén."
+            },
+            {
+              "key": "C",
+              "text": "Derecho o izquierdo."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "Si aún no ha salido el sol pero existe buena visibilidad, ¿qué alumbrado debe utilizar si circula por una vía interurbana?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P10.jpg",
+            "alt": "Amanecer",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "El alumbrado de posición y el de corto alcance."
+            },
+            {
+              "key": "B",
+              "text": "Ninguno."
+            },
+            {
+              "key": "C",
+              "text": "El alumbrado de posición, únicamente."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "En caso de existir niebla espesa, además de reducir la visibilidad, ¿puede disminuir la adherencia de los neumáticos sobre la calzada?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P11.jpg",
+            "alt": "Niebla espesa",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, pero solamente en caso de frenar bruscamente."
+            },
+            {
+              "key": "B",
+              "text": "No, la adherencia de los neumáticos solamente disminuye cuando llueve."
+            },
+            {
+              "key": "C",
+              "text": "Sí, debido a que la niebla humedece la calzada haciéndola más deslizante."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "¿Qué debe hacer cuando vaya a adelantar a un ciclista que lleva un pasajero?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P12.jpg",
+            "alt": "Ciclista con pasajero",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Aumentar la precaución ya que la bicicleta se puede desestabilizar con mayor facilidad."
+            },
+            {
+              "key": "B",
+              "text": "Aumentar la velocidad y circular lo más cerca posible del borde derecho de la calzada."
+            },
+            {
+              "key": "C",
+              "text": "Hacer señales acústicas al llegar a su altura para advertir de nuestra presencia."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Si un agente de tráfico, desde su vehículo, le ordena detenerse mediante el encendido de un dispositivo con una luz amarilla intermitente hacia delante, ¿dónde deberá hacerlo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P13.jpg",
+            "alt": "Señalización vehículo policial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el lado derecho de la calzada, detr s del veh culo policial."
+            },
+            {
+              "key": "B",
+              "text": "Donde no genere mayores riesgos ni molestias para el resto de usuarios."
+            },
+            {
+              "key": "C",
+              "text": "En el lado izquierdo de la calzada, delante del veh culo policial."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "Si conduce con frecuencia y consume antihistamínicos para tratar una alergia respiratoria, es conveniente...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P14.jpg",
+            "alt": "Conductor",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Utilizar antihistamínicos no sedantes, que no producen somnolencia."
+            },
+            {
+              "key": "B",
+              "text": "Tomar alguna bebida alcohólica para evitar la aparición del sueño."
+            },
+            {
+              "key": "C",
+              "text": "Viajar al atardecer o al amanecer, ya que hay menos polen en el aire."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Situado en un vehículo, ¿qué identifica la señal V-25 Distintivo ambiental?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-261/Test260P15.jpg",
+            "alt": "Distintivos ambientales",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-261/Test260P15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Su clasificación ambiental en función de su nivel de emisiones y combustible empleado."
+            },
+            {
+              "key": "B",
+              "text": "El tipo de combustible empleado y su nivel de radiación atmosférica."
+            },
+            {
+              "key": "C",
+              "text": "Su clasificación ambiental en función de su nivel de contaminación acústica."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2021-12",
+      "title": "Diciembre 2021",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-260.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "¿Qué debe hacer si se ve obligado a detener su vehículo en el interior de un túnel por motivos de circulación?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P01.jpg",
+            "alt": "Entrada túnel de carretera",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Encender la señal de emergencia y las luces de carretera."
+            },
+            {
+              "key": "B",
+              "text": "Detenerse lo más lejos posible del vehículo de delante."
+            },
+            {
+              "key": "C",
+              "text": "Detenerse lo más cerca posible del vehículo de delante."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Cómo hay que colocarse el cinturón de seguridad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P02.jpg",
+            "alt": "Hebilla del cinturón de seguridad de un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Muy ajustado, aunque apriete un poco, para que sujete mejor."
+            },
+            {
+              "key": "B",
+              "text": "Flojo y con holgura, para poder llegar a todo el habitáculo del vehículo."
+            },
+            {
+              "key": "C",
+              "text": "Ajustado al cuerpo, ni muy apretado ni flojo, y sin que esté retorcido."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "¿Con qué objetivo se establecen los límites de velocidad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P03.jpg",
+            "alt": "Señal vertical de limitación de velocidad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Para garantizar la máxima seguridad y fluidez."
+            },
+            {
+              "key": "B",
+              "text": "Para garantizar la máxima fluidez, aunque disminuya la seguridad."
+            },
+            {
+              "key": "C",
+              "text": "Para garantizar la máxima seguridad, aunque disminuya la fluidez"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "El consumo de drogas de abuso o ilegales, ¿puede alterar la percepción del riesgo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P04.jpg",
+            "alt": "Un vaso de alcohol en una carretera",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, aumenta y el conductor percibe mejor las situaciones de riesgo."
+            },
+            {
+              "key": "B",
+              "text": "Sí, disminuye y el conductor percibe peor las situaciones de riesgo."
+            },
+            {
+              "key": "C",
+              "text": "No; el consumo de drogas no altera la percepción del riesgo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Para incorporarse a la circulación, ¿se puede dar marcha atrás?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P05.jpg",
+            "alt": "Conductor realizando la maniobra de marcha atrás",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, es una de las maniobras en las que está permitido."
+            },
+            {
+              "key": "B",
+              "text": "No, en ningún caso."
+            },
+            {
+              "key": "C",
+              "text": "Sí, pero solo en vías urbanas."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Una vez iniciado el adelantamiento, se producen circunstancias que hacen difícil su finalización sin provocar riesgos; ¿qué está obligado a hacer el conductor?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P06.jpg",
+            "alt": "Maniobra de adelantamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Aumentar la velocidad para finalizar el adelantamiento."
+            },
+            {
+              "key": "B",
+              "text": "Advertir del riesgo al vehículo al que pretende adelantar para que detenga su marcha."
+            },
+            {
+              "key": "C",
+              "text": "Reducir la velocidad y regresar a su carril sin obstaculizar."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "En los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecta está prohibido...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P07.jpg",
+            "alt": "Señalización con visibilidad reducida",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "parar, pero está permitido estacionar."
+            },
+            {
+              "key": "B",
+              "text": "estacionar, pero está permitido parar."
+            },
+            {
+              "key": "C",
+              "text": "parar y estacionar."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Un conductor con sueño...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P08.jpg",
+            "alt": "Conductor somnoliento al volante de un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "tarda menos tiempo en reaccionar."
+            },
+            {
+              "key": "B",
+              "text": "analiza situaciones de tráfico complejas en menos tiempo."
+            },
+            {
+              "key": "C",
+              "text": "tarda más tiempo en reaccionar."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "Los sistemas de navegación, ¿pueden ayudarnos a controlar la velocidad de circulación?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P09.jpg",
+            "alt": "Conductor utilizando un sistema de navegación en un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo cuando se circula a velocidades superiores a 100 km/h."
+            },
+            {
+              "key": "B",
+              "text": "No, los sistemas de navegación no ayudan a controlar la velocidad."
+            },
+            {
+              "key": "C",
+              "text": "Sí, aunque la principal fuente de información debe de ser siempre el velocímetro."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En un turismo, ¿cuántos chalecos reflectantes es obligatorio llevar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P10.jpg",
+            "alt": "Ocupantes de un vehículo con el chaleco reflectante",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Uno."
+            },
+            {
+              "key": "B",
+              "text": "Dos: uno para el conductor y otro para el acompañante."
+            },
+            {
+              "key": "C",
+              "text": "Uno por cada plaza autorizada de que disponga el vehículo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Queda atascado con su turismo en una zona de barro donde patinan las ruedas motrices. ¿Cuál es la forma más adecuada de actuar para seguir circulando?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P11.jpg",
+            "alt": "Rueda de un turismo atascada en el barro",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Pisar a fondo el pedal acelerador para conseguir mayor tracción en las ruedas y así lograr mayor adherencia"
+            },
+            {
+              "key": "B",
+              "text": "Preparar un terreno estable colocando el material adecuado cerca de las ruedas motrices para que estas tengan la adherencia suficiente."
+            },
+            {
+              "key": "C",
+              "text": "Empujar el vehículo por uno de los laterales hacia una mejor superficie con adherencia."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Si el pasajero de una motocicleta no utiliza el casco de protección, la responsabilidad es del...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P12.jpg",
+            "alt": "Pasajero en una motocicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "conductor."
+            },
+            {
+              "key": "B",
+              "text": "pasajero."
+            },
+            {
+              "key": "C",
+              "text": "titular del vehículo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "¿Qué precaución puede adoptar para evitar el riesgo de atropello a ciclistas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P13.jpg",
+            "alt": "Ciclista",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario."
+            },
+            {
+              "key": "B",
+              "text": "Utilizar señales luminosas para avisar de su propósito de adelantarles."
+            },
+            {
+              "key": "C",
+              "text": "No hacer señales acústicas cerca de ellos."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "El seguro de suscripción obligatoria, ¿cubre los daños causados al conductor no culpable de un accidente?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P14.jpg",
+            "alt": "Coche accidentado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, los daños personales, pero no los materiales."
+            },
+            {
+              "key": "B",
+              "text": "Sí, tanto los daños personales como los materiales."
+            },
+            {
+              "key": "C",
+              "text": "No, ni los daños personales ni los materiales."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Si su permiso de conducir tiene un año de antigüedad, ¿cuál es tasa máxima permitida de alcohol?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-260/Test260P15.jpg",
+            "alt": "Joven bebiendo una cerveza",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-260/Test260P15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "0,25 miligramos por litro de aire espirado."
+            },
+            {
+              "key": "B",
+              "text": "0,30 miligramos por litro de aire espirado."
+            },
+            {
+              "key": "C",
+              "text": "0,15 miligramos por litro de aire espirado."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2021-10",
+      "title": "Octubre 2021",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-259.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 14,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "Esta señal prohíbe...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P01.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "la parada los días indicados en la señal."
+            },
+            {
+              "key": "B",
+              "text": "la parada y el estacionamiento."
+            },
+            {
+              "key": "C",
+              "text": "el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Qué indica esta señal?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P02.jpg",
+            "alt": "Panel vertical",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "El paso de dos a tres carriles, con señalización de velocidad máxima aconsejada."
+            },
+            {
+              "key": "B",
+              "text": "El paso de uno a dos carriles, con carril especial obligatorio para vehículos lentos."
+            },
+            {
+              "key": "C",
+              "text": "El paso de dos a tres carriles, con señalización de velocidad máxima permitida."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "En una carretera convencional que transcurre fuera de poblado, ¿cuál es la velocidad máxima que le está permitido alcanzar a un turismo para adelantar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P03.jpg",
+            "alt": "Carretera convencional",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "120 km/h"
+            },
+            {
+              "key": "B",
+              "text": "110 km/h."
+            },
+            {
+              "key": "C",
+              "text": "90 km/h."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Los vehículos para personas con movilidad reducida, si no existe 4 vía o parte de ella que les está especialmente destinada...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P04.jpg",
+            "alt": "Persona con movilidad reducida accediendo a un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "deben circular por el arcén, siempre que sea transitable y suficiente."
+            },
+            {
+              "key": "B",
+              "text": "pueden circular por autopista."
+            },
+            {
+              "key": "C",
+              "text": "pueden circular por autovía."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Esta señal indica...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P05.jpg",
+            "alt": "Señal de peligro",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "peligro por bajada con fuerte pendiente."
+            },
+            {
+              "key": "B",
+              "text": "peligro por subida con fuerte pendiente."
+            },
+            {
+              "key": "C",
+              "text": "zona de frenado de emergencia."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "La marca vial es continua; ¿está permitido adelantar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P06.jpg",
+            "alt": "Marca vial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, porque el camión circula despacio."
+            },
+            {
+              "key": "B",
+              "text": "No, porque la marca vial lo prohíbe."
+            },
+            {
+              "key": "C",
+              "text": "No, porque la vía no tiene arcén."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Para ahorrar carburante, ¿dónde se debe cargar el equipaje?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P07.jpg",
+            "alt": "Maletero de un turismo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el maletero."
+            },
+            {
+              "key": "B",
+              "text": "En la baca."
+            },
+            {
+              "key": "C",
+              "text": "En el maletero o en la baca, es indistinto."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Para circular con mayor seguridad...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P08.jpg",
+            "alt": "Conductor al volante",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "el vehículo debe estar en perfecto estado pero no es necesario que lo esté el conductor."
+            },
+            {
+              "key": "B",
+              "text": "el conductor debe estar en perfecto estado pero no es necesario que lo esté el vehículo."
+            },
+            {
+              "key": "C",
+              "text": "tanto el conductor como el vehículo deben estar en perfecto estado."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "En caso de niebla espesa, ¿qué luces debe utilizar el conductor de un turismo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P09.jpg",
+            "alt": "Situación de niebla",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Las luces antiniebla delanteras y las de emergencia."
+            },
+            {
+              "key": "B",
+              "text": "Las luces antiniebla, las de posición y las de emergencia."
+            },
+            {
+              "key": "C",
+              "text": "Las luces antiniebla, las de posición y las de corto alcance."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En esta intersección con “circulación giratoria”, que no es glorieta, ¿a qué vehículos debe ceder el paso?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P10.jpg",
+            "alt": "Circulación giratoria",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A los que entren por la izquierda."
+            },
+            {
+              "key": "B",
+              "text": "A los que entren por la derecha."
+            },
+            {
+              "key": "C",
+              "text": "A los que están girando alrededor de la isleta."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Una exposición continuada del vehículo a temperaturas elevadas, puede provocar un deterioro mayor de las gomas de las escobillas de los limpiaparabrisas. ¿Cuáles son los efectos más comunes?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P11.jpg",
+            "alt": "Limpiaparabrisas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Se reblandecen y pierden elasticidad."
+            },
+            {
+              "key": "B",
+              "text": "Se endurecen y se agrietan."
+            },
+            {
+              "key": "C",
+              "text": "Se dilatan y ejercen mayor presión sobre el cristal."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "¿Cuál es la función del freno de mano?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P12.jpg",
+            "alt": "Freno de mano",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Reducir la velocidad del vehículo en ciudad."
+            },
+            {
+              "key": "B",
+              "text": "Inmovilizar el vehículo al estacionar."
+            },
+            {
+              "key": "C",
+              "text": "Reducir la velocidad del vehículo cuando circule por una vía con una pendiente prolongada."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "¿Qué debe hacer para avisar de que va a disminuir la velocidad de su vehículo de modo considerable?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P13.jpg",
+            "alt": "Avisar de la disminución de velocidad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Encender las luces de posición."
+            },
+            {
+              "key": "B",
+              "text": "Encender el intermitente izquierdo."
+            },
+            {
+              "key": "C",
+              "text": "Pisar varias veces el pedal de freno."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "En el supuesto en el que existan dos señales del mismo tipo con indicaciones que parezcan estar en contradicción, ¿cuál de ellas tendrá prioridad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-259/Test259-P14.jpg",
+            "alt": "Señalización en cruce",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-259/Test259-P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La más restrictiva."
+            },
+            {
+              "key": "B",
+              "text": "La menos restrictiva."
+            },
+            {
+              "key": "C",
+              "text": "La más próxima."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2021-06",
+      "title": "Junio 2021",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-258.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "A un turismo, ¿le está permitido circular con láminas adhesivas o cortinillas contra el sol en las ventanillas traseras?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-250-p01.jpg",
+            "alt": "Láminas adhesivas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-250-p01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, en ningún caso."
+            },
+            {
+              "key": "B",
+              "text": "Sí, en todo caso."
+            },
+            {
+              "key": "C",
+              "text": "Solo si el vehículo lleva dos espejos retrovisores exteriores."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Cuándo está permitido estacionar en un túnel?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p02.jpg",
+            "alt": "Entrada a un túnel de carretera",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Cuando el túnel está suficientemente iluminado."
+            },
+            {
+              "key": "B",
+              "text": "Cuando la calzada tiene dos carriles de circulación para cada sentido."
+            },
+            {
+              "key": "C",
+              "text": "Nunca."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "En esta intersección con señal de STOP y buena visibilidad, ¿qué debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p03.jpg",
+            "alt": "Intersección con señal de Stop",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Detenerse siempre una vez superada la línea transversal."
+            },
+            {
+              "key": "B",
+              "text": "Seguir circulando sin detenerse, porque no viene ningún vehículo de frente."
+            },
+            {
+              "key": "C",
+              "text": "Detenerse siempre ante la línea transversal."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "En una calzada de doble sentido de circulación en la que no 4 están delimitados los carriles, está obligado a circular por...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p04.jpg",
+            "alt": "Carretera sin carriles delimitados",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "el lugar de la calzada que crea más seguro."
+            },
+            {
+              "key": "B",
+              "text": "la derecha, lo más cerca posible del borde de la calzada."
+            },
+            {
+              "key": "C",
+              "text": "el eje imaginario de la calzada."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "En defecto de señalización, ¿cuál es la velocidad máxima que no deberán rebasar los vehículos en una autopista dentro de poblado?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p05.jpg",
+            "alt": "Velocidad en autopista",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "50 km/h, pudiéndola superar en 20 km/h. para adelantar."
+            },
+            {
+              "key": "B",
+              "text": "80 km/h."
+            },
+            {
+              "key": "C",
+              "text": "50 km/h."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Con lluvia intensa, una motocicleta, ¿puede sufrir “aquaplaning”?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p06.jpg",
+            "alt": "Motocicleta y acquaplanning",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No; solo los turismos pueden sufrir “aquaplaning”."
+            },
+            {
+              "key": "B",
+              "text": "Solo si la motocicleta lleva sidecar"
+            },
+            {
+              "key": "C",
+              "text": "Sí, especialmente si circula a velocidad elevada."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Cuando el fondo de las señales de orientación es amarillo, indica que se circula por...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p07.jpg",
+            "alt": "Señalización",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "un tramo de vía en obras."
+            },
+            {
+              "key": "B",
+              "text": "una vía para automóviles."
+            },
+            {
+              "key": "C",
+              "text": "un tramo de vía especialmente peligroso."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Los paneles de mensaje variable, ¿pueden utilizarse para dar instrucciones de obligado cumplimiento?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p08.jpg",
+            "alt": "Carretera con paneles de señalización variable",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, son meramente informativos."
+            },
+            {
+              "key": "B",
+              "text": "Sí."
+            },
+            {
+              "key": "C",
+              "text": "No, solo pueden usarse para advertir de posibles peligros."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "¿Qué indica esta señal?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p09.jpg",
+            "alt": "Señalización vertical",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Calzada en la que se debe ceder el paso a los vehículos que se aproximen por la derecha."
+            },
+            {
+              "key": "B",
+              "text": "Vía pública de atención preferente."
+            },
+            {
+              "key": "C",
+              "text": "Calzada con prioridad de paso en las intersecciones sobre los vehículos que circulen por otra calzada."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En una vía urbana, las operaciones de carga y descarga se realizarán...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p10.jpg",
+            "alt": "Operario realizando carga y descarga",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "depositando la mercancía en la calzada o en zonas peatonales."
+            },
+            {
+              "key": "B",
+              "text": "respetando las disposiciones que dicten las autoridades municipales."
+            },
+            {
+              "key": "C",
+              "text": "por el lado del vehículo más alejado del borde de la calzada."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Conducir bajo los síntomas de una alergia respiratoria, ¿aumenta el riesgo de sufrir un accidente?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p11-extra.jpg",
+            "alt": "Conductora alérgica",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p11-extra.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, pero solo durante la primavera debido a la mayor presencia de polen."
+            },
+            {
+              "key": "B",
+              "text": "No, el riesgo es el mismo que el de un conductor sin alergia respiratoria."
+            },
+            {
+              "key": "C",
+              "text": "Sí, ya que puede verse alterada la capacidad para conducir con seguridad."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Los resaltos en los pasos para peatones, ¿se consideran obstáculos en la calzada?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p12.jpg",
+            "alt": "Resaltos y paso de peatones",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, cuando son metálicos."
+            },
+            {
+              "key": "B",
+              "text": "Sí, puesto que dificultan el cruce de los pasos de peatones."
+            },
+            {
+              "key": "C",
+              "text": "No, siempre que garanticen la seguridad vial de los usuarios y especialmente de los ciclistas."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "¿Está permitido estacionar en las calles residenciales?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p13.jpg",
+            "alt": "Señal calle residencial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, excepto en los lugares señalizados."
+            },
+            {
+              "key": "B",
+              "text": "No, excepto en horas nocturnas."
+            },
+            {
+              "key": "C",
+              "text": "Sí, en cualquier lugar de la vía."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "En caso de producirse un incendio en el interior de un túnel, ¿qué medida de seguridad, entre otras, adoptará el conductor?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p14.jpg",
+            "alt": "Interior del un túnel",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Apartará su vehículo a la derecha para dejar paso a los servicios de emergencia."
+            },
+            {
+              "key": "B",
+              "text": "Apagará el motor del vehículo y permanecerá en su interior."
+            },
+            {
+              "key": "C",
+              "text": "Dejará arrancado el motor de su vehículo y abandonará el túnel."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "En caso de condiciones meteorológicas muy desfavorables, como lluvia muy intensa, ¿se puede circular con la luz antiniebla trasera encendida?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-258/test-258-p15.jpg",
+            "alt": "Circulación en condiciones adversas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-258/test-258-p15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, solo puede utilizarse con niebla densa."
+            },
+            {
+              "key": "B",
+              "text": "Sí."
+            },
+            {
+              "key": "C",
+              "text": "Sí, aunque su uso es opcional."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2021-03",
+      "title": "Marzo 2021",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-257.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "¿Qué es un catadióptrico?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test-257-P01.jpg",
+            "alt": "Catadióptrico",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test-257-P01.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Un dispositivo que refleja la luz procedente de una fuente luminosa."
+            },
+            {
+              "key": "B",
+              "text": "Una placa de matrícula reflectante."
+            },
+            {
+              "key": "C",
+              "text": "Un dispositivo de alumbrado del vehículo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Está permitida la circulación de vehículos cuyo nivel de emisión de ruidos supere los límites establecidos?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p02.jpg",
+            "alt": "Velocidad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p02.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "Solo está permitida su circulación por vías urbanas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "En esta carretera, ¿dónde se puede estacionar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p03.jpg",
+            "alt": "Carretera y aparcamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p03.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Dentro de la vía, en el lado derecho."
+            },
+            {
+              "key": "B",
+              "text": "En ninguna parte; está prohibido estacionar dentro y fuera de la vía."
+            },
+            {
+              "key": "C",
+              "text": "Fuera de la vía, en el lado derecho."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Los conductores jóvenes, en general, ¿evalúan peor los 4 riesgos de la circulación?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p04.jpg",
+            "alt": "Conductor",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p04.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Sí, lo que reduce la posibilidad de sufrir un accidente de tráfico."
+            },
+            {
+              "key": "C",
+              "text": "Sí, lo que aumenta la posibilidad de sufrir un accidente de tráfico."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Respecto a los efectos secundarios de los medicamentos y su influencia en la conducción, tras ingerir fármacos somníferos o hipnóticos normalmente...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p05.jpg",
+            "alt": "Medicamentos",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p05.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "disminuye el tiempo de reacción."
+            },
+            {
+              "key": "B",
+              "text": "aumenta el tiempo de reacción."
+            },
+            {
+              "key": "C",
+              "text": "aumenta el campo visual."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Durante el día, las motocicletas están obligadas a llevar encendida la luz de cruce...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p06.jpg",
+            "alt": "Motocicleta en carretera",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p06.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "cuando circulen por cualquier tipo de vía."
+            },
+            {
+              "key": "B",
+              "text": "cuando circulen por vías interurbanas, solamente."
+            },
+            {
+              "key": "C",
+              "text": "cuando las condiciones climatológicas sean adversas, solamente."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Un conductor que, pese a poder hacerlo sin riesgo, no se detiene a ayudar a una víctima grave de accidente que se encuentra desamparada, ¿podría estar cometiendo un delito?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p07.jpg",
+            "alt": "Juicio por delito de tráfico",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p07.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, aunque el conductor no esté implicado en el accidente."
+            },
+            {
+              "key": "B",
+              "text": "No; ayudar a las víctimas es un gesto de solidaridad, pero no es un deber."
+            },
+            {
+              "key": "C",
+              "text": "Sí, pero solo si el conductor está implicado en el accidente."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "En una motocicleta con mandos independientes para cada uno de los frenos, ¿dónde se acciona generalmente el freno delantero?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p08.jpg",
+            "alt": "Motocicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p08.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el manillar, con la mano derecha."
+            },
+            {
+              "key": "B",
+              "text": "En el manillar, con la mano izquierda."
+            },
+            {
+              "key": "C",
+              "text": "En un pedal, con el pie izquierdo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "¿Puede perder puntos de su saldo si pone en peligro a un grupo de ciclistas durante un adelantamiento?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p09.jpg",
+            "alt": "Circulación de ciclistas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p09.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, es una infracción que supone la pérdida de 4 puntos."
+            },
+            {
+              "key": "B",
+              "text": "No; es una infracción que no supone la pérdida de puntos."
+            },
+            {
+              "key": "C",
+              "text": "No, porque es un delito contra la seguridad vial no una infracción administrativa."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En esta vía se ha habilitado un carril adicional circunstancial, ¿a qué velocidad, como mínimo, deberán circular por dicho carril?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-p10.jpg",
+            "alt": "Carril adicional circunstancial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-p10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "60 km/h o inferior si así estuviese señalizado."
+            },
+            {
+              "key": "B",
+              "text": "80 km/h."
+            },
+            {
+              "key": "C",
+              "text": "A la mitad de la genérica señalada para cada categoría de vehículos."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Cuando se circula con lluvia disminuye la visibilidad, sobre todo si la lluvia es fuerte. ¿Qué precauciones debe tomar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-P11.jpg",
+            "alt": "Conducir con lluvia",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-P11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Debe aumentar la distancia de seguridad y reducir la velocidad."
+            },
+            {
+              "key": "B",
+              "text": "No debe abrir las ventanillas para evitar que se empañen los cristales."
+            },
+            {
+              "key": "C",
+              "text": "Debe circular sobre las líneas o marcas blancas longitudinales de la carretera para mantener la trayectoria adecuada."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Cuando viaje con su mascota, ¿en qué lugar del vehículo podrá situarse para evitar que interfiera en la conducción?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-P12.jpg",
+            "alt": "Mascotas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-P12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el asiento delantero ya que si dispone de airbag frontal estará doblemente protegida."
+            },
+            {
+              "key": "B",
+              "text": "Donde no comprometa su seguridad ni la del resto de pasajeros, además de ir sujeta con el dispositivo adecuado."
+            },
+            {
+              "key": "C",
+              "text": "En los asientos traseros sujeta con el cinturón de seguridad como un pasajero más."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "¿Qué indica la señal colocada en la parte trasera del vehículo compuesta por una lámina reflectante de color amarillo rodeada de una lámina fluorescente de color rojo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-P13.jpg",
+            "alt": "Vehículo pesado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-P13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Que el vehículo o el conjunto de vehículos tiene una longitud superior a 12 metros."
+            },
+            {
+              "key": "B",
+              "text": "Que el vehículo transporta mercancías peligrosas."
+            },
+            {
+              "key": "C",
+              "text": "Qué el vehículo no podrá circular a una velocidad superior a 90 km/h."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "Esta señal indica peligro por la proximidad de...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-P14.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-P14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "un tramo de vía con posible obstrucción en la calzada."
+            },
+            {
+              "key": "B",
+              "text": "un resalto o badén en la vía o pavimento en mal estado."
+            },
+            {
+              "key": "C",
+              "text": "un tramo de vía con pendientes ascendentes y descendentes."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "Esta señal indica que...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-257/Test257-P15.jpg",
+            "alt": "Señalización vertical",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-257/Test257-P15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "a su altura puede realizar un cambio de sentido de la marcha a la derecha."
+            },
+            {
+              "key": "B",
+              "text": "las únicas direcciones aconsejadas son seguir de frente o girar a la derecha."
+            },
+            {
+              "key": "C",
+              "text": "debe seguir una de las direcciones y sentidos que señalan las flechas."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2020-12",
+      "title": "Diciembre 2020",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-256.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulan de noche?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-01-250x226.jpg",
+            "alt": "Bicicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-01-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí."
+            },
+            {
+              "key": "B",
+              "text": "No, si llevan puestas prendas reflectantes."
+            },
+            {
+              "key": "C",
+              "text": "Solo cuando circulan por vías interurbanas."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "La carga transportada en un turismo no deberá...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-02-250x226.jpg",
+            "alt": "Carga vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-02-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Descargarse por el lado del vehículo más próximo al borde de la calzada."
+            },
+            {
+              "key": "B",
+              "text": "Sobresalir por la parte posterior más de un 5% de su longitud."
+            },
+            {
+              "key": "C",
+              "text": "Comprometer su estabilidad."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "¿Cómo puede reducir la velocidad de su vehículo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-03-250x226.jpg",
+            "alt": "Frenado de vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-03-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo con el sistema de frenado."
+            },
+            {
+              "key": "B",
+              "text": "Solo con el motor."
+            },
+            {
+              "key": "C",
+              "text": "Tanto con el sistema de frenado como con el motor."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "En esta vía de doble sentido, el conductor del turismo blanco, ¿dónde situará su vehículo para girar a la izquierda?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-04-250x226.jpg",
+            "alt": "Situación para Giro",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-04-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sobre la línea discontinua, invadiendo ligeramente el sentido contrario."
+            },
+            {
+              "key": "B",
+              "text": "Junto a la línea discontinua, sin invadir el sentido contrario."
+            },
+            {
+              "key": "C",
+              "text": "A la derecha, fuera de la calzada siempre que sea posible."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "La marca indica un paso...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-05-250x226.jpg",
+            "alt": "Marca vial de paso",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-05-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "para peatones."
+            },
+            {
+              "key": "B",
+              "text": "para ciclistas."
+            },
+            {
+              "key": "C",
+              "text": "para ciclistas y ciclomotores."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "La falta de experiencia al volante, ¿puede ser una de las causas que expliquen los accidentes de tráfico que sufren los conductores noveles?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-06-250x226.jpg",
+            "alt": "Conductor novel",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-06-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; es una de las causas de los accidentes protagonizados por jóvenes."
+            },
+            {
+              "key": "B",
+              "text": "No; el estado de la vía y del vehículo son los únicos factores que explican los accidentes."
+            },
+            {
+              "key": "C",
+              "text": "Solo si el conductor novel ha consumido alcohol o drogas ilegales."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Hay nieve y solo tiene cadenas para dos ruedas. ¿Dónde debe ponerlas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-07-250x226.jpg",
+            "alt": "Cadenas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-07-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En las ruedas delanteras siempre."
+            },
+            {
+              "key": "B",
+              "text": "En las ruedas motrices siempre."
+            },
+            {
+              "key": "C",
+              "text": "En las ruedas traseras siempre."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Esta carretera no tiene arcén; ¿puede estacionar a la derecha, fuera de la vía?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-08-250x226.jpg",
+            "alt": "Vehículo estacionado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-08-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, porque estoy fuera de la calzada."
+            },
+            {
+              "key": "B",
+              "text": "No, porque es una vía interurbana."
+            },
+            {
+              "key": "C",
+              "text": "Solo si hay una señal que permita expresamente el estacionamiento."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "Si un vehículo queda detenido por avería en un paso a nivel, el conductor debe adoptar en primer lugar las medidas necesarias para...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-09-250x226.jpg",
+            "alt": "Paso a nivel",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-09-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "que todos los ocupantes abandonen el vehículo."
+            },
+            {
+              "key": "B",
+              "text": "desconectar los bornes de la batería del vehículo."
+            },
+            {
+              "key": "C",
+              "text": "colocar el triángulo de preseñalización de peligro en la vía."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "Circular en motocicleta bajo una lluvia intensa obliga a...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-10-250x226.jpg",
+            "alt": "En moto bajo la lluvia",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-10-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "circular lo más cerca posible del vehículo que va por delante."
+            },
+            {
+              "key": "B",
+              "text": "moderar la velocidad, e incluso detenerse si fuera preciso."
+            },
+            {
+              "key": "C",
+              "text": "encender la luz de largo alcance, incluso dentro de poblado."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "uera de poblado, una autocaravana va a adelantar a un vehículo pesado. ¿Puede producirse una situación de riesgo cuando circulen en paralelo si sopla fuerte viento lateral por la izquierda?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-11-250x226.jpg",
+            "alt": "Autocaravana fuera de poblado",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-11-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, si ambos vehículos tienen el mismo volumen y peso."
+            },
+            {
+              "key": "B",
+              "text": "Sí, porque se produciría un empuje brusco de los dos vehículos hacia la izquierda."
+            },
+            {
+              "key": "C",
+              "text": "Sí, puede producirse el efecto pantalla y aproximarse de forma brusca al vehículo pesado."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "El consumo de alcohol, ¿afecta al tiempo que tarda en reaccionar el conductor ante una situación de emergencia?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-12-250x226.jpg",
+            "alt": "Alcohol y conducción",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-12-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; el tiempo de reacción aumenta."
+            },
+            {
+              "key": "B",
+              "text": "Sí; el tiempo de reacción disminuye."
+            },
+            {
+              "key": "C",
+              "text": "No; el consumo de alcohol no afecta al tiempo de reacción."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Si arrastra con su turismo un remolque ligero, ¿está obligado a llevar entre sus accesorios un equipo homologado de extinción de incendios en condiciones de uso?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-13-250x226.jpg",
+            "alt": "Equipo de extinción de incendios",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-13-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Sí."
+            },
+            {
+              "key": "C",
+              "text": "Solo cuando circule por vías interurbanas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "El estilo de conducción de una motocicleta, ¿puede influir en el consumo de combustible?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-14-250x226.jpg",
+            "alt": "Piloto de motocicleta",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-14-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, solo depende de la cilindrada de la motocicleta."
+            },
+            {
+              "key": "B",
+              "text": "No, si se adopta una postura aerodinámica."
+            },
+            {
+              "key": "C",
+              "text": "Sí."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "¿Qué indica esta señal?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-15-250x226.jpg",
+            "alt": "Señal vertical",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-15-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "La prohibición de detenerse en el peaje."
+            },
+            {
+              "key": "B",
+              "text": "La prohibición de pasar sin detenerse en el peaje."
+            },
+            {
+              "key": "C",
+              "text": "La prohibición de acceder al peaje."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2020-10",
+      "title": "Octubre 2020",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-255.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "La luz antiniebla trasera se utilizará siempre que...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-1.jpg",
+            "alt": "Luces anti-niebla",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-1.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "se circule a velocidad anormalmente reducida."
+            },
+            {
+              "key": "B",
+              "text": "se circule por carreteras de alta montaña."
+            },
+            {
+              "key": "C",
+              "text": "las condiciones meteorológicas sean especialmente desfavorables."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "¿Qué medidas deberá adoptar ante esta señal?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P2.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P2.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Aumentaré la atención por posibles desprendimientos y obstáculos en la calzada."
+            },
+            {
+              "key": "B",
+              "text": "Aceleraré, pasando la zona lo más rápidamente posible para dejar paso libre."
+            },
+            {
+              "key": "C",
+              "text": "Me autoriza a circular en sentido contrario, extremando la precaución, en caso de desprendimientos."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "A partir de la señal, el conductor de un camión de menos de 3.500 kilos de M.M.A., ¿puede adelantar a otros vehículos?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-3.jpg",
+            "alt": "Señal de tráfico",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-3.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No; la señal le prohíbe adelantar a todo tipo de vehículos a motor."
+            },
+            {
+              "key": "B",
+              "text": "Sí; la señal afecta a camiones cuya M.M.A. supere los 3.500 kilos."
+            },
+            {
+              "key": "C",
+              "text": "Solo puede adelantar a vehículos de dos ruedas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Este conjunto de marcas blancas pintadas en la calzada...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-4.jpg",
+            "alt": "Marcas viales",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-4.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "obliga al vehículo a detenerse siempre."
+            },
+            {
+              "key": "B",
+              "text": "indica un paso para peatones."
+            },
+            {
+              "key": "C",
+              "text": "indica que ningún conductor puede entrar con su vehículo o animal en esta zona."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "Para incorporarse a la vía principal, un turismo tiene que atravesar un carril bici debidamente señalizado; ¿deberá ceder el paso a los ciclistas que circulan por el mismo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-5.jpg",
+            "alt": "Circulacion ciclistas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-5.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; los ciclistas tienen prioridad de paso."
+            },
+            {
+              "key": "B",
+              "text": "No; el turismo tiene prioridad de paso."
+            },
+            {
+              "key": "C",
+              "text": "Solo cuando los ciclistas circulen en grupo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "El nivel del depósito de líquido lavaparabrisas, ¿se debe revisar con cierta frecuencia?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-6.jpg",
+            "alt": "Depósito lavaparabrisas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-6.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, es conveniente para no quedarnos sin él cuando lo necesitemos."
+            },
+            {
+              "key": "B",
+              "text": "Solo hay que revisarlo en verano porque con el calor el líquido se evapora."
+            },
+            {
+              "key": "C",
+              "text": "No es necesario, basta con revisarlo antes de pasar la inspección técnica."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "En calzadas con doble sentido de circulación y dos carriles sin delimitar por marcas viales, ¿por dónde se debe de circular?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-7.jpg",
+            "alt": "Calzadas doble sentido",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-7.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Por el centro de la calzada."
+            },
+            {
+              "key": "B",
+              "text": "Por el carril derecho."
+            },
+            {
+              "key": "C",
+              "text": "Por cualquiera de los dos carriles si no vienen vehículos en sentido contrario."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "En caso de lluvia, ¿es aconsejable aumentar la distancia de seguridad con el vehículo que circula delante?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-8.jpg",
+            "alt": "Lluvia y distancia de seguridad",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-8.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, porque la distancia de frenado aumenta."
+            },
+            {
+              "key": "B",
+              "text": "No, porque la distancia de frenado disminuye."
+            },
+            {
+              "key": "C",
+              "text": "Solo en vías rápidas, pero no en vías urbanas ni en carreteras convencionales"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "El conductor de un vehículo podrá adelantar en un túnel cuando...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-9.jpg",
+            "alt": "Adelantamiento en túnel",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-9.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "exista más de un carril en el sentido contrario de su marcha."
+            },
+            {
+              "key": "B",
+              "text": "exista más de un carril en su sentido de circulación."
+            },
+            {
+              "key": "C",
+              "text": "exista un carril para cada sentido, siempre que el túnel esté bien iluminado."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "La flecha izquierda de la señal, ¿qué indica?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-10.jpg",
+            "alt": "Placa de señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Obliga a seguir la dirección de la flecha en la próxima intersección."
+            },
+            {
+              "key": "B",
+              "text": "Que en el próximo tramo se desvía el carril de la izquierda."
+            },
+            {
+              "key": "C",
+              "text": "Que es obligatorio circular por el arcén izquierdo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "A la entrada y salida del colegio, para evitar riesgos, ¿qué precauciones deberá tomar cuando los niños desciendan del vehículo, además de la previa vigilancia del entorno?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-11.jpg",
+            "alt": "Salida del colegio",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No deberán abrir las puertas ni apearse antes de la completa inmovilización del vehículo."
+            },
+            {
+              "key": "B",
+              "text": "Para mayor seguridad lo harán siempre por la puerta del conductor."
+            },
+            {
+              "key": "C",
+              "text": "Deberán bajar del vehículo por la puerta más alejada del borde de la vía."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "En esta vía, para adelantar al camión, ¿a qué velocidad puede circular como máximo el turismo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-12.jpg",
+            "alt": "Adelantar al camión",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A 140 km/h."
+            },
+            {
+              "key": "B",
+              "text": "A 110 km/h."
+            },
+            {
+              "key": "C",
+              "text": "A 120 km/h."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Si conduce el turismo amarillo y quiere girar a la derecha, ¿qué debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-13.jpg",
+            "alt": "Giro y semáforo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Continuar de frente."
+            },
+            {
+              "key": "B",
+              "text": "Esperar a que el semáforo de la izquierda se ponga verde."
+            },
+            {
+              "key": "C",
+              "text": "Girar a la derecha porque lo permite el semáforo."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "Está adelantando y ve que hay peligro; ¿qué debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-14.jpg",
+            "alt": "Maniobra de adelantamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Aumentar la velocidad y adelantar rápidamente."
+            },
+            {
+              "key": "B",
+              "text": "Reducir la velocidad, señalizar y volver a mi carril."
+            },
+            {
+              "key": "C",
+              "text": "Pedir ayuda al vehículo que estoy adelantando."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "En esta calle de sentido único en la que no hay señalización que prohíba estacionar ni marcas viales en la calzada, ¿en qué lado está permitido el estacionamiento?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-15.jpg",
+            "alt": "Estacionamiento",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el lado derecho solamente."
+            },
+            {
+              "key": "B",
+              "text": "En ambos lados, tanto en el derecho como en el izquierdo."
+            },
+            {
+              "key": "C",
+              "text": "En el lado izquierdo solamente."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2020-07",
+      "title": "Julio 2020",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-254.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-1.jpg",
+            "alt": "Señal de tráfico",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-1.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "A los de más de 3.500 kg. de M.M.A., solo cuando llevan carga."
+            },
+            {
+              "key": "B",
+              "text": "A los de menos de 3.500 kg. de M.M.A."
+            },
+            {
+              "key": "C",
+              "text": "A los de más de 3.500 kg. de M.M.A., con carga o sin carga."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "Para adelantar al grupo de ciclistas, el vehículo rebasa la línea continua y ocupa el carril destinado a la circulación en sentido contrario; ¿es correcto su comportamiento?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-2.jpg",
+            "alt": "Ciclistas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-2.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, y debe guardar una separación lateral de, al menos, 1,5 metros"
+            },
+            {
+              "key": "B",
+              "text": "Solo es correcto si no existe una señal vertical que prohíba adelantar."
+            },
+            {
+              "key": "C",
+              "text": "No, porque en este tramo de vía está prohibido el adelantamiento."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "Si sufre una avería y tiene que salir de su vehículo, ¿en cuál de los siguientes casos debe utilizar el chaleco reflectante?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-3.jpg",
+            "alt": "Chaleco reflectante",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-3.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Al ocupar el arcén en vías interurbanas."
+            },
+            {
+              "key": "B",
+              "text": "Solamente al ocupar la calzada o el arcén en autopistas o autovías."
+            },
+            {
+              "key": "C",
+              "text": "Al ocupar la calzada en vías urbanas."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Si entra en una curva a la izquierda a velocidad excesiva, la fuerza centrífuga, ¿puede afectar a la trayectoria del vehículo?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-4.jpg",
+            "alt": "Curva a la izquierda",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-4.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí; se desplazará hacia la izquierda de la calzada."
+            },
+            {
+              "key": "B",
+              "text": "Sí; se desplazará hacia la derecha de la calzada."
+            },
+            {
+              "key": "C",
+              "text": "No; la fuerza centrífuga no afecta a la trayectoria del vehículo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "¿Cómo se denominan los costes de pérdida de vidas, de capacidad productiva y el sufrimiento físico y psicológico que tienen lugar como consecuencia de un accidente de tráfico?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-5.jpg",
+            "alt": "Accidente con víctima",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-5.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Costes sanitarios."
+            },
+            {
+              "key": "B",
+              "text": "Costes materiales."
+            },
+            {
+              "key": "C",
+              "text": "Costes humanos."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Si ningún elemento impide su funcionamiento eficaz, ¿qué sistema de seguridad pasiva evita que, en caso de accidente, se produzca el efecto submarino?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-6.jpg",
+            "alt": "Efecto submarino",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-6.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "El airbag."
+            },
+            {
+              "key": "B",
+              "text": "El reposacabezas."
+            },
+            {
+              "key": "C",
+              "text": "El cinturón de seguridad."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "Se considera peatón a la persona...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-7.jpg",
+            "alt": "Peatón",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-7.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "que, sin ser conductor, transita a pie por las vías públicas."
+            },
+            {
+              "key": "B",
+              "text": "a cuyo cargo está un animal o animales."
+            },
+            {
+              "key": "C",
+              "text": "que circula con una bicicleta."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "El consumo de drogas de abuso o ilegales, ¿afecta a la seguridad vial?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-8.jpg",
+            "alt": "Consumo de droga",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-8.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, en absoluto."
+            },
+            {
+              "key": "B",
+              "text": "Sí, ya que alteran de modo importante las capacidades del conductor."
+            },
+            {
+              "key": "C",
+              "text": "Solo si el conductor no está habituado a consumirlas."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "Durante la conducción, ¿qué horas son especialmente propicias para la aparición del sueño?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-9.jpg",
+            "alt": "Conductora con somnolencia",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-9.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Las últimas horas de la mañana."
+            },
+            {
+              "key": "B",
+              "text": "Las horas de la madrugada y las primeras horas de la tarde."
+            },
+            {
+              "key": "C",
+              "text": "Las últimas horas de la tarde y las primeras de la mañana."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "En un turismo con cinco plazas autorizadas, incluida la del conductor, ¿está permitido transportar a seis personas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-10.jpg",
+            "alt": "Ocupación de un vehículo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-10.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Sí, siempre que no se supere la masa máxima autorizada del vehículo."
+            },
+            {
+              "key": "C",
+              "text": "Solo cuando al menos uno de los ocupantes sea menor de edad."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "Una vez finalizado el estado de alarma por el COVID-19 y restablecida la nueva normalidad, los ocupantes de un vehículo particular que esté circulando por vías públicas, ¿están obligados al uso de mascarillas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-11.jpg",
+            "alt": "Uso de mascarilla",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-11.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, cuando el único ocupante del vehículo sea el conductor."
+            },
+            {
+              "key": "B",
+              "text": "Sí, aunque todos sus ocupantes convivan en el mismo domicilio."
+            },
+            {
+              "key": "C",
+              "text": "Sí, cuando un tercio de los ocupantes del vehículo sea mayor de 70 años."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "A los peatones que utilicen monopatines o patines en ningún caso les está permitido...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-12.jpg",
+            "alt": "Patinador",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-12.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "ser arrastrados por otros vehículos."
+            },
+            {
+              "key": "B",
+              "text": "circular por el arcén de una travesía."
+            },
+            {
+              "key": "C",
+              "text": "circular a paso de persona por las aceras."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Los efectos secundarios de los medicamentos que alteran la capacidad de conducción, ¿se manifiestan de la misma manera en todas las personas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-13.jpg",
+            "alt": "Efectos de los medicamentos",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-13.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo si el tratamiento médico se prolonga en el tiempo."
+            },
+            {
+              "key": "B",
+              "text": "Sí; sus efectos son idénticos para todas las personas."
+            },
+            {
+              "key": "C",
+              "text": "No; pueden variar por diversos factores, como la edad o el estado físico del conductor."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "¿Están obligados los conductores de motocicletas a llevar un chaleco reflectante de alta visibilidad?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-14.jpg",
+            "alt": "Motorista",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-14.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí."
+            },
+            {
+              "key": "B",
+              "text": "Solo cuando circulen por vías interurbanas."
+            },
+            {
+              "key": "C",
+              "text": "No."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "¿Es peligroso introducir una dirección en un navegador GPS mientras se conduce?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-15.jpg",
+            "alt": "Navegador",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-254/Test-254-Preg-15.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Solo si el navegador no está integrado en el vehículo."
+            },
+            {
+              "key": "B",
+              "text": "No, porque es una ayuda para conducir con mayor seguridad."
+            },
+            {
+              "key": "C",
+              "text": "Sí, ya que distrae al conductor."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "revista-dgt-2020-06",
+      "title": "Junio 2020",
+      "source": {
+        "name": "Revista Tráfico y Seguridad Vial - DGT",
+        "url": "https://revista.dgt.es/es/test/Test-num-253.shtml",
+        "legalNoticeUrl": "https://revista.dgt.es/es/aviso-legal.shtml"
+      },
+      "questionCount": 15,
+      "questions": [
+        {
+          "id": "q01",
+          "number": 1,
+          "prompt": "Debido a una emergencia, un turismo queda inmovilizado en la calzada; su conductor ¿debe colocar los triángulos de preseñalización de peligro, como norma general?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P01-250x226.jpg",
+            "alt": "Triángulo de preseñalización de peligro",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P01-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No, excepto si la inmovilización se produce en una vía fuera de poblado."
+            },
+            {
+              "key": "B",
+              "text": "Solo debe encender la luz de emergencia y, si procede, las luces de posición."
+            },
+            {
+              "key": "C",
+              "text": "Sí, aunque haya encendido la luz de emergencia, la de posición o ambas."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q02",
+          "number": 2,
+          "prompt": "Esta señal indica...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P02-250x226.jpg",
+            "alt": "Señal",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P02-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Peligro por la proximidad de una zona donde sopla fuerte viento lateral."
+            },
+            {
+              "key": "B",
+              "text": "Peligro por la proximidad de un tramo de vía con pavimento deslizante por hielo."
+            },
+            {
+              "key": "C",
+              "text": "Peligro por la proximidad de un vehículo accidentado que obstruye la calzada."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "q03",
+          "number": 3,
+          "prompt": "Como norma general, en vías de tres calzadas se utilizarán las de los laterales...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P03-250x226.jpg",
+            "alt": "Vía con varias calzadas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P03-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En sentido único, si bien se podrá habilitar algún carril para el sentido contrario."
+            },
+            {
+              "key": "B",
+              "text": "En ambos sentidos."
+            },
+            {
+              "key": "C",
+              "text": "En sentido único, siempre que el tráfico sea fluido."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q04",
+          "number": 4,
+          "prompt": "Cuando se aprecia fuerte viento lateral...",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p04-250x226.jpg",
+            "alt": "Infografía con viento lateral",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p04-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Se deberá reducir la velocidad y corregir las ligeras desviaciones de la dirección."
+            },
+            {
+              "key": "B",
+              "text": "Se deberá aumentar la velocidad para compensar la fuerza del viento."
+            },
+            {
+              "key": "C",
+              "text": "Disminuye el riesgo de accidente, ya que el viento evita que el vehículo se desvíe de su trayectoria."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q05",
+          "number": 5,
+          "prompt": "¿Cuándo se deben cambiar las escobillas del limpiaparabrisas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p05-250x226.jpg",
+            "alt": "Escobillas del limpiarabrisas",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p05-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Cada dos años obligatoriamente."
+            },
+            {
+              "key": "B",
+              "text": "Cuando las gomas estén dañadas."
+            },
+            {
+              "key": "C",
+              "text": "Siempre antes de pasar la inspección técnica del vehículo."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q06",
+          "number": 6,
+          "prompt": "Esta señal, ¿prohíbe el cambio de dirección en la próxima intersección?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p06-250x226.jpg",
+            "alt": "Señal de circulación",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p06-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, ya que debo seguir la dirección y sentido que señala la flecha."
+            },
+            {
+              "key": "B",
+              "text": "No, solo prohíbe el cambio de sentido."
+            },
+            {
+              "key": "C",
+              "text": "No, solo me indica que la vía es de sentido único."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q07",
+          "number": 7,
+          "prompt": "¿Tiene prioridad de paso una ambulancia que circule con las señales luminosas apagadas?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p07-250x226.jpg",
+            "alt": "Preferencia de las ambulancias",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p07-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "No."
+            },
+            {
+              "key": "B",
+              "text": "Solo tiene preferencia en las vías urbanas."
+            },
+            {
+              "key": "C",
+              "text": "Sí, tiene preferencia en todo tipo de vías."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q08",
+          "number": 8,
+          "prompt": "Un vehículo va a incorporarse a la circulación; ¿cuándo debe ceder el paso?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P-08-250x226.jpg",
+            "alt": "Vehiculos aparcados",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P-08-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Cuando entre en el carril de circulación desde el lado izquierdo, solamente."
+            },
+            {
+              "key": "B",
+              "text": "Siempre."
+            },
+            {
+              "key": "C",
+              "text": "Cuando entre en el carril de circulación desde el lado derecho, solamente."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q09",
+          "number": 9,
+          "prompt": "Circula con su turismo por esta carretera convencional; ¿cuál es la velocidad máxima permitida?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P09-250x226.jpg",
+            "alt": "Carretera",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P09-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "90 km/h"
+            },
+            {
+              "key": "B",
+              "text": "100 km/h"
+            },
+            {
+              "key": "C",
+              "text": "80 km/h"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "prompt": "¿Está permitido atravesar la marca vial de la derecha para cambiar de carril?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P10-250x226.jpg",
+            "alt": "Marca vial",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P10-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Sí, pero con precaución."
+            },
+            {
+              "key": "B",
+              "text": "No."
+            },
+            {
+              "key": "C",
+              "text": "No, porque solamente está permitido estacionar."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "prompt": "¿Por qué es aconsejable cambiar periódicamente el aceite lubricante?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P11-Extra-250x226.jpg",
+            "alt": "Aceite lubricante",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P11-Extra-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Porque, estando en buenas condiciones, mantiene el buen estado del motor más tiempo y el desgaste de las piezas es menor."
+            },
+            {
+              "key": "B",
+              "text": "Porque el aceite con el tiempo se vuelve más viscoso y no fluye correctamente entre las piezas."
+            },
+            {
+              "key": "C",
+              "text": "Porque el aceite con el uso y pasado un tiempo pierde excesiva cantidad de volumen y hay que reponerlo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "prompt": "Circula por una travesía; ya se ha puesto el sol y la vía está suficientemente iluminada. ¿Qué alumbrado debe encender?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P12-250x226.jpg",
+            "alt": "Vía suficiente iluminada",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P12-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Ninguno, ya que la vía está suficientemente iluminada."
+            },
+            {
+              "key": "B",
+              "text": "Las luces de posición y las de corto alcance o de cruce."
+            },
+            {
+              "key": "C",
+              "text": "Solamente las luces de posición."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "prompt": "Cuando el semáforo se ponga verde, ¿qué debe hacer?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P13-250x226.jpg",
+            "alt": "Semáforo",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P13-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Obedecer la señal de stop."
+            },
+            {
+              "key": "B",
+              "text": "Obedecer al semáforo, que tiene prioridad sobre la señal de stop."
+            },
+            {
+              "key": "C",
+              "text": "Obedecer al semáforo, pero debo ceder el paso."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "prompt": "Si su vehículo está provisto de caja de cambios manual, en una calle con pendiente ascendente, ¿cómo debe estacionar?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P14-250x226.jpg",
+            "alt": "Cambio de marchas manual",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P14-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "Poniendo el freno de estacionamiento y la primera velocidad."
+            },
+            {
+              "key": "B",
+              "text": "Poniendo el freno de estacionamiento y la marcha atrás."
+            },
+            {
+              "key": "C",
+              "text": "Basta con poner el freno de estacionamiento."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "prompt": "En las calzadas con dos sentidos y tres carriles, cuando quiera girar a la izquierda, ¿dónde debe colocarse?",
+          "image": {
+            "url": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P15-250x226.jpg",
+            "alt": "Calzada con dos sentidos",
+            "sourceUrl": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P15-250x226.jpg"
+          },
+          "options": [
+            {
+              "key": "A",
+              "text": "En el carril central."
+            },
+            {
+              "key": "B",
+              "text": "En el arcén derecho."
+            },
+            {
+              "key": "C",
+              "text": "En el carril izquierdo."
             }
           ],
           "answer": "A"

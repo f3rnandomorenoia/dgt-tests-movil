@@ -1,8 +1,8 @@
 # Tests DGT pendientes
 
-Estado actualizado: 2026-06-22.
+Estado actualizado: 2026-06-23.
 
-Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Test-num-265` a `Test-num-277`.
+Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Test-num-253` a `Test-num-277`.
 
 ## Hecho
 
@@ -21,10 +21,22 @@ Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Te
 | Hecho | Octubre 2023 | 267 | https://revista.dgt.es/es/test/Test-num-267.shtml |
 | Hecho | Junio 2023 | 266 | https://revista.dgt.es/es/test/Test-num-266.shtml |
 | Hecho | Marzo 2023 | 265 | https://revista.dgt.es/es/test/Test-num-265.shtml |
+| Hecho | Diciembre 2022 | 264 | https://revista.dgt.es/es/test/Test-num-264.shtml |
+| Hecho | Octubre 2022 | 263 | https://revista.dgt.es/es/test/Test-num-263.shtml |
+| Hecho | Junio 2022 | 262 | https://revista.dgt.es/es/test/Test-num-262.shtml |
+| Hecho | Marzo 2022 | 261 | https://revista.dgt.es/es/test/Test-num-261.shtml |
+| Hecho | Diciembre 2021 | 260 | https://revista.dgt.es/es/test/Test-num-260.shtml |
+| Hecho | Octubre 2021 | 259 | https://revista.dgt.es/es/test/Test-num-259.shtml |
+| Hecho | Junio 2021 | 258 | https://revista.dgt.es/es/test/Test-num-258.shtml |
+| Hecho | Marzo 2021 | 257 | https://revista.dgt.es/es/test/Test-num-257.shtml |
+| Hecho | Diciembre 2020 | 256 | https://revista.dgt.es/es/test/Test-num-256.shtml |
+| Hecho | Octubre 2020 | 255 | https://revista.dgt.es/es/test/Test-num-255.shtml |
+| Hecho | Julio 2020 | 254 | https://revista.dgt.es/es/test/Test-num-254.shtml |
+| Hecho | Junio 2020 | 253 | https://revista.dgt.es/es/test/Test-num-253.shtml |
 
 ## Pendientes
 
-No quedan tests pendientes dentro del alcance revisado, desde Marzo 2023 hasta Marzo 2026.
+No quedan tests pendientes dentro del alcance revisado, desde Junio 2020 hasta Marzo 2026.
 
 ## Comando para importar uno
 
