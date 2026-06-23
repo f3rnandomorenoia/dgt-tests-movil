@@ -207,6 +207,39 @@ select {
   font-weight: 800;
 }
 
+.validity-alert {
+  display: grid;
+  gap: 8px;
+  margin: 0 0 14px;
+  border: 1px solid rgba(181, 74, 59, 0.32);
+  border-radius: 8px;
+  padding: 12px;
+  background: rgba(181, 74, 59, 0.09);
+}
+
+.validity-label {
+  color: var(--red);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.validity-alert p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.validity-alert a {
+  color: var(--blue);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.validity-alert a:focus,
+.validity-alert a:hover {
+  text-decoration: underline;
+}
+
 .options {
   display: grid;
   gap: 10px;
@@ -246,6 +279,16 @@ select {
 .option-button.selected {
   border-color: var(--blue);
   box-shadow: 0 0 0 3px rgba(49, 90, 138, 0.16);
+}
+
+.option-button.blocked {
+  border-style: dashed;
+  background: rgba(105, 113, 125, 0.08);
+}
+
+.option-button.blocked .option-key {
+  color: var(--muted);
+  background: rgba(105, 113, 125, 0.15);
 }
 
 .option-button.correct {
@@ -365,6 +408,12 @@ select {
 .map-button.answered:not(.current) {
   border-color: var(--green);
   background: rgba(47, 111, 94, 0.12);
+}
+
+.map-button.blocked:not(.current) {
+  border-style: dashed;
+  color: var(--muted);
+  background: rgba(105, 113, 125, 0.1);
 }
 
 .map-button.missed:not(.current) {

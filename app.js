@@ -20,6 +20,17 @@ const state = {
   finished: false,
 };
 
+function isBlocked(question) {
+  return question.validity?.status === "blocked";
+}
+
+function activeQuestionIndexes() {
+  if (!state.test) return [];
+  return state.test.questions
+    .map((question, index) => (isBlocked(question) ? null : index))
+    .filter((index) => index !== null);
+}
+
 function storageKey(testId) {
   return `${STORAGE_PREFIX}${testId}`;
 }
@@ -75,9 +86,11 @@ function selectTest(testId) {
 }
 
 function scoreTest() {
-  const total = state.test.questions.length;
-  const answered = state.answers.filter(Boolean).length;
-  const correct = state.test.questions.reduce((count, question, index) => {
+  const indexes = activeQuestionIndexes();
+  const total = indexes.length;
+  const answered = indexes.filter((index) => Boolean(state.answers[index])).length;
+  const correct = indexes.reduce((count, index) => {
+    const question = state.test.questions[index];
     return count + (state.answers[index] === question.answer ? 1 : 0);
   }, 0);
   return {
@@ -86,24 +99,27 @@ function scoreTest() {
     correct,
     wrong: total - correct,
     pending: total - answered,
+    blocked: state.test.questions.length - total,
   };
 }
 
 function optionClass(question, optionKey, selected) {
   const classes = ["option-button"];
+  if (isBlocked(question)) classes.push("blocked");
   if (selected === optionKey) classes.push("selected");
-  if (state.finished && question.answer === optionKey) classes.push("correct");
-  if (state.finished && selected === optionKey && question.answer !== optionKey) classes.push("wrong");
+  if (!isBlocked(question) && state.finished && question.answer === optionKey) classes.push("correct");
+  if (!isBlocked(question) && state.finished && selected === optionKey && question.answer !== optionKey) classes.push("wrong");
   return classes.join(" ");
 }
 
 function renderResults() {
   if (!state.finished) return "";
   const score = scoreTest();
+  const blockedText = score.blocked ? ` ${score.blocked} bloqueada${score.blocked === 1 ? "" : "s"} por normativa vigente.` : "";
   return `
     <div class="results">
       <h2>${score.correct}/${score.total} correctas</h2>
-      <p>${score.wrong} fallos. ${score.pending ? `${score.pending} sin responder.` : "Todas respondidas."}</p>
+      <p>${score.wrong} fallos. ${score.pending ? `${score.pending} sin responder.` : "Todas respondidas."}${blockedText}</p>
       <div class="results-actions">
         <button class="secondary-button" id="reviewMissesBtn" type="button">Ver fallos</button>
         <button class="primary-button" id="retryBtn" type="button">Repetir</button>
@@ -112,13 +128,27 @@ function renderResults() {
   `;
 }
 
+function renderValidityNotice(question) {
+  if (!isBlocked(question)) return "";
+  const source = question.validity.source;
+  return `
+    <div class="validity-alert">
+      <div class="validity-label">No usar para examen actual</div>
+      <p>${question.validity.currentRule}</p>
+      <p>${question.validity.reason}</p>
+      ${source?.url ? `<a href="${source.url}" target="_blank" rel="noreferrer">${source.name}</a>` : ""}
+    </div>
+  `;
+}
+
 function renderQuestion() {
   const question = state.test.questions[state.current];
   const selected = state.answers[state.current];
+  const blocked = isBlocked(question);
   const imageHtml = question.image
     ? `<img class="question-image" src="${question.image.url}" alt="${question.image.alt}" loading="eager" referrerpolicy="no-referrer">`
     : `<div class="image-fallback">Pregunta sin imagen</div>`;
-  const review = state.finished
+  const review = state.finished && !blocked
     ? `<p class="review-note">Respuesta correcta: ${question.answer}</p>`
     : "";
 
@@ -130,12 +160,13 @@ function renderQuestion() {
     <div class="media-wrap">${imageHtml}</div>
     <div class="question-body">
       ${renderResults()}
+      ${renderValidityNotice(question)}
       <p class="prompt">${question.prompt}</p>
       <div class="options">
         ${question.options
           .map(
             (option) => `
-              <button class="${optionClass(question, option.key, selected)}" type="button" data-answer="${option.key}">
+              <button class="${optionClass(question, option.key, selected)}" type="button" data-answer="${option.key}" ${blocked ? "disabled" : ""}>
                 <span class="option-key">${option.key}</span>
                 <span class="option-text">${option.text}</span>
               </button>
@@ -149,7 +180,7 @@ function renderQuestion() {
 
   dom.questionPanel.querySelectorAll("[data-answer]").forEach((button) => {
     button.addEventListener("click", () => {
-      if (state.finished) return;
+      if (state.finished || blocked) return;
       state.answers[state.current] = button.dataset.answer;
       saveProgress();
       render();
@@ -170,7 +201,7 @@ function renderQuestion() {
   dom.questionPanel.querySelector("#retryBtn")?.addEventListener("click", resetTest);
   dom.questionPanel.querySelector("#reviewMissesBtn")?.addEventListener("click", () => {
     const index = state.test.questions.findIndex((item, questionIndex) => {
-      return state.answers[questionIndex] !== item.answer;
+      return !isBlocked(item) && state.answers[questionIndex] !== item.answer;
     });
     if (index >= 0) {
       state.current = index;
@@ -186,7 +217,8 @@ function renderMap() {
       const classes = ["map-button"];
       if (index === state.current) classes.push("current");
       if (state.answers[index]) classes.push("answered");
-      if (state.finished && state.answers[index] !== question.answer) classes.push("missed");
+      if (isBlocked(question)) classes.push("blocked");
+      if (!isBlocked(question) && state.finished && state.answers[index] !== question.answer) classes.push("missed");
       return `<button class="${classes.join(" ")}" type="button" data-index="${index}" aria-label="Pregunta ${index + 1}">${index + 1}</button>`;
     })
     .join("");

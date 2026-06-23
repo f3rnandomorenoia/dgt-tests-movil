@@ -38,6 +38,20 @@ Fuente oficial revisada: Revista DGT, sección `Test`, más URLs históricas `Te
 
 No quedan tests pendientes dentro del alcance revisado, desde Junio 2020 hasta Marzo 2026.
 
+## Vigencia normativa
+
+Revisión actual: 2026-06-23.
+
+Preguntas bloqueadas por normativa vigente:
+
+| Test | Pregunta | Motivo | Fuente |
+| --- | ---: | --- | --- |
+| Junio 2020 | 1 | Triángulos sustituidos por V16 conectada como medio legal desde 2026. | https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/ |
+| Octubre 2021 | 3 | Suprimido el margen de +20 km/h para adelantar en carreteras convencionales. | https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006 |
+| Marzo 2021 | 9 | Adelantar poniendo en peligro a ciclistas o sin 1,5 m pasa a 6 puntos. | https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006 |
+
+Estas preguntas quedan visibles como históricas en la app, pero no permiten responder y no cuentan en la puntuación.
+
 ## Comando para importar uno
 
 ```bash

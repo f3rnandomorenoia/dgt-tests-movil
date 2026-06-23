@@ -6927,7 +6927,19 @@
               "text": "90 km/h."
             }
           ],
-          "answer": "B"
+          "answer": "B",
+          "validity": {
+            "status": "blocked",
+            "reviewedAt": "2026-06-23",
+            "category": "margen-20-adelantamiento",
+            "label": "El margen de +20 km/h fue suprimido",
+            "reason": "La respuesta oficial original permite alcanzar 110 km/h para adelantar en carretera convencional fuera de poblado. Esa excepción fue eliminada por la Ley 18/2021.",
+            "currentRule": "Los turismos y motocicletas ya no pueden rebasar en 20 km/h los límites genéricos de velocidad en carreteras convencionales para adelantar.",
+            "source": {
+              "name": "BOE - Ley 18/2021, modificación de la Ley de Tráfico",
+              "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006"
+            }
+          }
         },
         {
           "id": "q04",
@@ -7826,7 +7838,19 @@
               "text": "No, porque es un delito contra la seguridad vial no una infracción administrativa."
             }
           ],
-          "answer": "A"
+          "answer": "A",
+          "validity": {
+            "status": "blocked",
+            "reviewedAt": "2026-06-23",
+            "category": "puntos-ciclistas",
+            "label": "La detracción por adelantar mal a ciclistas cambió a 6 puntos",
+            "reason": "La respuesta oficial original indica pérdida de 4 puntos. La Ley 18/2021 elevó a 6 puntos adelantar poniendo en peligro o entorpeciendo a ciclistas o sin dejar 1,5 metros.",
+            "currentRule": "Adelantar poniendo en peligro o entorpeciendo a ciclistas, o sin dejar la separación mínima de 1,5 metros, supone pérdida de 6 puntos.",
+            "source": {
+              "name": "BOE - Ley 18/2021, anexo II permiso por puntos",
+              "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006"
+            }
+          }
         },
         {
           "id": "q10",
@@ -9174,7 +9198,19 @@
               "text": "Sí, aunque haya encendido la luz de emergencia, la de posición o ambas."
             }
           ],
-          "answer": "C"
+          "answer": "C",
+          "validity": {
+            "status": "blocked",
+            "reviewedAt": "2026-06-23",
+            "category": "v16-triangulos",
+            "label": "Triángulos sustituidos por V16 conectada",
+            "reason": "La respuesta oficial original obliga a colocar triángulos de preseñalización. Esa regla ya no es válida para vehículos matriculados en España.",
+            "currentRule": "Desde el 1 de enero de 2026, la señal V16 luminosa y conectada es el único medio legal para señalizar vehículos inmovilizados en España.",
+            "source": {
+              "name": "DGT - Dispositivos de preseñalización V16",
+              "url": "https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/"
+            }
+          }
         },
         {
           "id": "q02",
@@ -9528,5 +9564,8 @@
         }
       ]
     }
-  ]
+  ],
+  "validityReviewedAt": "2026-06-23",
+  "validityNote": "Preguntas revisadas contra cambios normativos posteriores. Las preguntas con validity.status=blocked se muestran como históricas, no permiten responder y no cuentan en la puntuación.",
+  "blockedQuestionCount": 3
 }

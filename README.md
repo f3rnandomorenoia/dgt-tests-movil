@@ -6,6 +6,12 @@ Tests publicados: **Marzo 2026** y todos los tests localizados de **2025**, **20
 
 Estado de tests importados y pendientes: [PENDING-EXAMS.md](PENDING-EXAMS.md).
 
+## Vigencia normativa
+
+Las preguntas publicadas se revisan contra cambios normativos posteriores. Cuando una respuesta oficial antigua contradice la normativa vigente, la pregunta queda marcada como `No usar para examen actual`, se deshabilita y no cuenta en la puntuación. La ficha muestra la regla actual y la fuente normativa que la bloquea.
+
+Revisión actual: **3 preguntas bloqueadas** sobre **369** publicadas.
+
 ## Fuente y derechos
 
 - Fuente textual: Revista “Tráfico y Seguridad Vial” de la DGT.
